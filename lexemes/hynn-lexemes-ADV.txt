@@ -1,0 +1,11830 @@
+﻿-lexeme
+ lex: աբութ-աբութ
+ stem: աբութ-աբութ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: широким шагом, широко шагая, торопливо
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադբէս-ադբէս
+ stem: ադբէս-ադբէս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так, таким образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադբէսօվ
+ stem: ադբէսօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так, таким образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադդէղէն
+ stem: ադդէղէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оттуда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադդէղը
+ stem: ադդէղը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: там, в том месте
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադէթը
+ stem: ադէթը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по обычаю, согласно обычаю
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադէն-ադէն
+ stem: ադէն-ադէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: иногда, временами, порой, время от времени
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադէնսըզ
+ stem: ադէնսըզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: невовремя, некстати
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադէնօվ
+ stem: ադէնօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: однажды, некогда, когда-то, в далёком прошлом (этими словами, как правило, начинаются сказки)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադխադար
+ stem: ադխադար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, настолько, столько-то, такое-то количество
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադնա
+ stem: ադնա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то и дело, постоянно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադքան
+ stem: ադքան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, настолько, так
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադքէնը
+ stem: ադքէնը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тогда, в то время
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադքօվ
+ stem: ադքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: туда, в ту сторону
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադքօվը
+ stem: ադքօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: там, в том месте
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադքօվէն
+ stem: ադքօվէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оттуда, откуда-то оттуда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադօրը
+ stem: ադօրը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в тот день, в течение того дня
+ lemma_type: dialectal
+
+-lexeme
+ lex: աժմըս
+ stem: աժմըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: теперь, ныне, сейчас
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալ
+ stem: ալ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: только, как только
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալայ-մալայ
+ stem: ալայ-մալայ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: полностью, целиком, весь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալայօվ
+ stem: ալայօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сообща, все вместе
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալա-չիլա
+ stem: ալա-չիլա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: нехотя, поневоле, хочешь не хочешь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալաֆռանգ
+ stem: ալաֆռանգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-французски, по-европейски, на европейский лад
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալէֆ-ալէֆ
+ stem: ալէֆ-ալէֆ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալլէմ
+ stem: ալլէմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кажется, видимо, вероятно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ախպար-ախպար
+ stem: ախպար-ախպար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дружно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ախսայէլէն
+ stem: ախսայէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прихрамывая, ковыляя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ախտա
+ stem: ախտա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: настолько, так
+ lemma_type: dialectal
+
+-lexeme
+ lex: ախքադնալէն
+ stem: ախքադնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беднея, обездоливаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ախքադցընէլէն
+ stem: ախքադցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обедняя, обездоливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ահէսթէ
+ stem: ահէսթէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спокойно, не спеша
+ lemma_type: dialectal
+
+-lexeme
+ lex: ահիդօղ
+ stem: ահիդօղ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дрожа от страха
+ lemma_type: dialectal
+
+-lexeme
+ lex: աձէլէն
+ stem: աձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: несясь, откладывая яйца
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղալէն
+ stem: աղալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: намалывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղաչէլէն
+ stem: աղաչէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: умоляя, упрашивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղավարի
+ stem: աղավարի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-барски
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղգօր
+ stem: աղգօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хорошо, что
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղդօդէլէն
+ stem: աղդօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкая
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղէգնալէն
+ stem: աղէգնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: улучшаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղէգօր
+ stem: աղէգօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хорошо, что
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղէլէն
+ stem: աղէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: соля, посыпая солью
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղույվաձսային
+ stem: աղույվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) темнеет и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղույվաձօվը
+ stem: աղույվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только темнеет (мрачнеет), потемнело, стемнеет и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղվաձսային
+ stem: աղվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) солится, солилось и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղօթէլէն
+ stem: աղօթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: заговаривая болезнь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամառը
+ stem: ամառը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: летом, в летнее время
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամառվանէ
+ stem: ամառվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: летом, начиная с лета
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամբաձսային
+ stem: ամբաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) тучи сгущаются, сгущались, будут сгущаться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամբաձօվը
+ stem: ամբաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только тучи сгущаются, сгущались и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամէնէվին
+ stem: ամէնէվին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: совсем, никак, вовсе, так и не
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամիսէ-ամիս
+ stem: ամիսէ-ամիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: из месяца в месяц
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամիսը-ձարը
+ stem: ամիսը-ձարը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: весь месяц, целый месяц
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամիսնէրօվ
+ stem: ամիսնէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: месяцами, на протяжении нескольких месяцев
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամուր-ամուր
+ stem: ամուր-ամուր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: громко
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամօթէլէն
+ stem: ամօթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стыдя
+ lemma_type: dialectal
+
+-lexeme
+ lex: այիմ-բէյիմ
+ stem: այիմ-բէյիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внезапно (проснуться и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: այլախ
+ stem: այլախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ведь, же, жаль что
+ lemma_type: dialectal
+
+-lexeme
+ lex: այսինքըն
+ stem: այսինքըն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то есть, а именно
+ lemma_type: dialectal
+
+-lexeme
+ lex: անբադջառ
+ stem: անբադջառ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: непременно, безусловно, обязательно, во что бы то ни стало
+ lemma_type: dialectal
+
+-lexeme
+ lex: անբէս
+ stem: անբէս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так
+ lemma_type: dialectal
+
+-lexeme
+ lex: անգարձագի
+ stem: անգարձագի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немедленно, тотчас
+ lemma_type: dialectal
+
+-lexeme
+ lex: անգիստէվ
+ stem: անգիստէվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: затем, потом
+ lemma_type: dialectal
+
+-lexeme
+ lex: անգից
+ stem: անգից.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: затем, потом
+ lemma_type: dialectal
+
+-lexeme
+ lex: անգօրա
+ stem: անգօրա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: настолько, так, до того, столько
+ lemma_type: dialectal
+
+-lexeme
+ lex: անդէղէն
+ stem: անդէղէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оттуда
+ lemma_type: dialectal
+
+-lexeme
+ lex: անդէղը
+ stem: անդէղը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: там, в том месте
+ lemma_type: dialectal
+
+-lexeme
+ lex: անդէնը
+ stem: անդէնը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в загробном мире, в потустороннем мире, на том свете
+ lemma_type: dialectal
+
+-lexeme
+ lex: անէգ-ունէգ
+ stem: անէգ-ունէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потихоньку, полегоньку, не торопясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: անէլէն
+ stem: անէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: делая, совершая, выполняя что-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: անթաթռում
+ stem: անթաթռում.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: непрестанно, беспрерывно
+ lemma_type: dialectal
+
+-lexeme
+ lex: անթիյէն
+ stem: անթիյէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оттуда
+ lemma_type: dialectal
+
+-lexeme
+ lex: անթին
+ stem: անթին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: там, туда, в той стороне
+ lemma_type: dialectal
+
+-lexeme
+ lex: անժումը
+ stem: անժումը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в таком случае
+ lemma_type: dialectal
+
+-lexeme
+ lex: անիձէլէն
+ stem: անիձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: проклиная
+ lemma_type: dialectal
+
+-lexeme
+ lex: անխադար
+ stem: անխադար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: настолько, столько, так, до такой степени
+ lemma_type: dialectal
+
+-lexeme
+ lex: անխի-թէնխի
+ stem: անխի-թէնխի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: нелепо, вздорно, несуразно
+ lemma_type: dialectal
+
+-lexeme
+ lex: անջա
+ stem: անջա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: только, только лишь, едва
+ lemma_type: dialectal
+
+-lexeme
+ lex: անսըհաթը
+ stem: անսըհաթը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тотчас, немедленно
+ lemma_type: dialectal
+
+-lexeme
+ lex: անցնէլէն
+ stem: անցնէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: проходя
+ lemma_type: dialectal
+
+-lexeme
+ lex: անցընէլէն
+ stem: անցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: перевозя, доставляя из одного места в другое
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքամ
+ stem: անքամ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: раз
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքէնը
+ stem: անքէնը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тогда, в то время
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքէնվան
+ stem: անքէնվան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тогдашний, давнишний, прежний, той поры
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքըման
+ stem: անքըման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как бы не
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքօվ
+ stem: անքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: туда, в ту сторону
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքօվէն
+ stem: անքօվէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оттуда, с той стороны
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքօվը
+ stem: անքօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: там, в том месте
+ lemma_type: dialectal
+
+-lexeme
+ lex: անօրը
+ stem: անօրը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: недавно
+ lemma_type: dialectal
+
+-lexeme
+ lex: անօրնէրը
+ stem: անօրնէրը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: недавно, на днях, несколько дней назад (неопред. форма)
+ lemma_type: dialectal
+
+-lexeme
+ lex: աշխըրքին
+ stem: աշխըրքին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: много, обильно, очень много, в большом количестве
+ lemma_type: dialectal
+
+-lexeme
+ lex: աշտըխ
+ stem: աշտըխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уже
+ lemma_type: dialectal
+
+-lexeme
+ lex: աշտըխ-աշտըխ
+ stem: աշտըխ-աշտըխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот-вот, совсем скоро
+ lemma_type: dialectal
+
+-lexeme
+ lex: աչխառնա
+ stem: աչխառնա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: натощак
+ lemma_type: dialectal
+
+-lexeme
+ lex: աչօղվէլէն
+ stem: աչօղվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: удаваясь, завершаясь удачно, успешно
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջափ
+ stem: աջափ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разве, хоть
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջէլէն
+ stem: աջէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: расти не переставая
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջէլէ
+ stem: աջէլէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: быстро, немедленно, тотчас, сразу
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջըռէլէն
+ stem: աջըռէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкая
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջըռթէլէն
+ stem: աջըռթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкая, загрязняя
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջըռթվէլէն
+ stem: աջըռթվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкаясь, загрязняясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջըռվէլէն
+ stem: աջըռվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջըռվէցընէլէն
+ stem: աջըռվէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: способствуя загрязнению
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջըռօդէլէն
+ stem: աջըռօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкая, загрязняя
+ lemma_type: dialectal
+
+-lexeme
+ lex: աջըռօդէցընէլէն
+ stem: աջըռօդէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкая, загрязняя
+ lemma_type: dialectal
+
+-lexeme
+ lex: առաձ-ընգաձ
+ stem: առաձ-ընգաձ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неудержимо, с упорством, с фанатизмом (делать что-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: առաչ
+ stem: առաչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прежде, раньше, в прежнее время
+ lemma_type: dialectal
+
+-lexeme
+ lex: առաչվանէ
+ stem: առաչվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: заблаговременно, заранее
+ lemma_type: dialectal
+
+-lexeme
+ lex: առավդուն
+ stem: առավդուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рассвет, заря, раннее утро
+ lemma_type: dialectal
+
+-lexeme
+ lex: առհասարագ
+ stem: առհասարագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обычно, вообще
+ lemma_type: dialectal
+
+-lexeme
+ lex: առնէլէն
+ stem: առնէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беря, получая, покупая
+ lemma_type: dialectal
+
+-lexeme
+ lex: առնըվաձսային
+ stem: առնըվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) берётся (покупается), будет браться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: առնըվաձօվը
+ stem: առնըվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только берётся (покупается, пригорает, замерзает), будет браться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: առնըվէլէն
+ stem: առնըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беря
+ lemma_type: dialectal
+
+-lexeme
+ lex: առչէվ
+ stem: առչէվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вперёд
+ lemma_type: dialectal
+
+-lexeme
+ lex: առչէվէն
+ stem: առչէվէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: впереди, спереди
+ lemma_type: dialectal
+
+-lexeme
+ lex: առչի-մէգութ
+ stem: առչի-մէգութ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сначала, сперва, поначалу, вначале
+ lemma_type: dialectal
+
+-lexeme
+ lex: առչիրգվանէ
+ stem: առչիրգվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рано вечером, ранним вечером
+ lemma_type: dialectal
+
+-lexeme
+ lex: առօխչանալէն
+ stem: առօխչանալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выздоравливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: առօք-փառօք
+ stem: առօք-փառօք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: торжественно, пышно (старое значение)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասէլէն
+ stem: ասէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: говоря
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասթիյէն
+ stem: ասթիյէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отсюда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասթիյէն-անթիյէն
+ stem: ասթիյէն-անթիյէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отсюда и оттуда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասթին
+ stem: ասթին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: здесь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասթին-անթին
+ stem: ասթին-անթին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: туда-сюда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասլը
+ stem: ասլը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: изначально, с самого начала
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասխադար
+ stem: ասխադար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, настолько
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասխալդի
+ stem: ասխալդի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чуть было не, вот-вот, того и гляди
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասպէսօվ
+ stem: ասպէսօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так, таким образом, подобным образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասվաձսային
+ stem: ասվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) говорится, говорилось, будет говориться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասվաձօվը
+ stem: ասվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только говорится, говорилось, будет говориться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասվէլէն
+ stem: ասվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: говорясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: աստէղէն
+ stem: աստէղէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: աստէղը
+ stem: աստէղը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: здесь, тут
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասքանագան
+ stem: ասքանագան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по столько-то (каждый, каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասքօվ
+ stem: ասքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сюда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասքօվ-անքօվ
+ stem: ասքօվ-անքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: туда-сюда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասքօվէն
+ stem: ասքօվէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отсюда
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասքօվէն-անքօվէն
+ stem: ասքօվէն-անքօվէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отовсюду
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասքօվը
+ stem: ասքօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: здесь, тут
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասօր
+ stem: ասօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сегодня
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասօր-անօր
+ stem: ասօր-անօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тому-этому, того-этого, всякого, кого ни попадя, кому ни попадя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասօր-վաղը
+ stem: ասօր-վաղը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в ближайшие дни
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավէլի
+ stem: ավէլի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: более, больше
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավէլնալէն
+ stem: ավէլնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: увеличиваясь, прибавляясь, возрастая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավէլցաձսային
+ stem: ավէլցաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) остаётся излишек, оставался излишек и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավէլցաձօվը
+ stem: ավէլցաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только остаётся излишек, оставался излишек, останется излишек и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավէլցընէլէն
+ stem: ավէլցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: увеличивая в объёме или количестве
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավէլօքօվ
+ stem: ավէլօքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с излишком
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավըրդէլէն
+ stem: ավըրդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разрушая, разваливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավըրդվաձսային
+ stem: ավըրդվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как разрушается (разваливается) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավըրդվաձօվը
+ stem: ավըրդվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только разрушается, разваливается и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավըրդվէլէն
+ stem: ավըրդվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разрушаясь, разваливаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավըրվաձսային
+ stem: ավըրվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) разваливается и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավըրվէլէն
+ stem: ավըրվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разрушаясь, разваливаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավլախ
+ stem: ավլախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поодаль, на некотором отдалении, на некотором расстоянии от чего-либо, кого-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավլէլէն
+ stem: ավլէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подметая, выметая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավլըվաձսային
+ stem: ավլըվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как подметается
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավլըվաձօվը
+ stem: ավլըվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только подметается
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավլըվէլէն
+ stem: ավլըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подметаясь, выметаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ավրէլէն
+ stem: ավրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разрушая, разваливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: արաբա-արաբա
+ stem: արաբա-արաբա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: телегами (грузить, возить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: արալըխդա
+ stem: արալըխդա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: промежуток времени
+ lemma_type: dialectal
+
+-lexeme
+ lex: արդօրալէն
+ stem: արդօրալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спеша, торопясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: արդօրցընէլէն
+ stem: արդօրցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подгоняя, торопя
+ lemma_type: dialectal
+
+-lexeme
+ lex: արէվուն
+ stem: արէվուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на солнце, на солнцепёке
+ lemma_type: dialectal
+
+-lexeme
+ lex: արէվուն-շօխուն
+ stem: արէվուն-շօխուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на солнцепёке, под палящими лучами солнца
+ lemma_type: dialectal
+
+-lexeme
+ lex: արթըխ-արթըխ
+ stem: արթըխ-արթըխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот-вот, совсем скоро
+ lemma_type: dialectal
+
+-lexeme
+ lex: արլախ-արլախ
+ stem: արլախ-արլախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: время от времени, иногда
+ lemma_type: dialectal
+
+-lexeme
+ lex: արլըխ-արլըխ
+ stem: արլըխ-արլըխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с промежутками (расставлять, располагать что-либо и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: արլըխէն
+ stem: արլըխէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: между делом, в промежутках между чем-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: արձէլէն
+ stem: արձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пасясь, поедая траву
+ lemma_type: dialectal
+
+-lexeme
+ lex: արձէցընէլէն
+ stem: արձէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пася, позволяя пастись
+ lemma_type: dialectal
+
+-lexeme
+ lex: արձըվաձսային
+ stem: արձըվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) пасётся, пасся и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: արձըվաձօվը
+ stem: արձըվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только (трава, посевы) поелись, потравились
+ lemma_type: dialectal
+
+-lexeme
+ lex: արձըվէլէն
+ stem: արձըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поедаясь (о траве)
+ lemma_type: dialectal
+
+-lexeme
+ lex: արմըննալէն
+ stem: արմըննալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: удивляясь, изумляясь, поражаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: արմընցընէլէն
+ stem: արմընցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: удивляя
+ lemma_type: dialectal
+
+-lexeme
+ lex: արունէլէն
+ stem: արունէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кровоточа
+ lemma_type: dialectal
+
+-lexeme
+ lex: արունօդէլէն
+ stem: արունօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: окровавливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: արվէլէն
+ stem: արվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: делаясь, выполняясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ափալ-թափալ
+ stem: ափալ-թափալ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: второпях, поспешно, сломя голову
+ lemma_type: dialectal
+
+-lexeme
+ lex: ափանսըզ
+ stem: ափանսըզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внезапно, неожиданно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ափաստան
+ stem: ափաստան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внезапно, вдруг
+ lemma_type: dialectal
+
+-lexeme
+ lex: ափէղ-ցըփէղ
+ stem: ափէղ-ցըփէղ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: невразумительно, невнятно (говорить, объяснять)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ափիգ-խուփիգ
+ stem: ափիգ-խուփիգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внезапно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ափուռ-սուփուռ
+ stem: ափուռ-սուփուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вдруг, ни с того ни с сего, некстати
+ lemma_type: dialectal
+
+-lexeme
+ lex: աֆէռթ
+ stem: աֆէռթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: проворно, расторопно, быстро
+ lemma_type: dialectal
+
+-lexeme
+ lex: բագաս-բագաս
+ stem: բագաս-բագաս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: недостаточно (наливать, взвешивать, измерять и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բագասգէգ
+ stem: բագասգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: маловато, достаточно мало
+ lemma_type: dialectal
+
+-lexeme
+ lex: բադըռդէլէն
+ stem: բադըռդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рвя, разрывая, раздирая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բադռէլէն
+ stem: բադռէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рвя (действит. залог)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բադռըվաձսային
+ stem: բադռըվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) рвётся и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բադռըվաձօվը
+ stem: բադռըվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только рвётся и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բադռըվէլէն
+ stem: բադռըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: имеет то же значение и формы что и «бадррэлэн» (в значении ср. залога)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բազ-բազ
+ stem: բազ-բազ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: иногда, порой, временами
+ lemma_type: dialectal
+
+-lexeme
+ lex: բազարը
+ stem: բազարը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на рынке
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաթէլէն
+ stem: բաթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: застревая в грязи
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաթէցընէլէն
+ stem: բաթէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: заводя в грязь, делая так, чтобы увяз в грязи
+ lemma_type: dialectal
+
+-lexeme
+ lex: բալդըր-բաջախ
+ stem: բալդըր-բաջախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: широким, размашистым шагом (ходить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բահէլէն
+ stem: բահէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: храня
+ lemma_type: dialectal
+
+-lexeme
+ lex: բահէրվանէ
+ stem: բահէրվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с весны, начиная с весны
+ lemma_type: dialectal
+
+-lexeme
+ lex: բահմագ
+ stem: բահմագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: недавно, только что
+ lemma_type: dialectal
+
+-lexeme
+ lex: բահմագվան
+ stem: բահմագվան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: недавний, недавно случившийся, произошедший
+ lemma_type: dialectal
+
+-lexeme
+ lex: բահպանէլէն
+ stem: բահպանէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оберегая, охраняя, заботясь, защищая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բահվէլէն
+ stem: բահվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прячась
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաղէլէն
+ stem: բաղէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: замерзая, остывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաղըշկէլէն
+ stem: բաղըշկէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: остывая (о пище)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բամբասէլէն
+ stem: բամբասէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: злословя, сплетничая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բայաթնալէն
+ stem: բայաթնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: черствея (о хлебе)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բայաթցընէլէն
+ stem: բայաթցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: позволяя (хлебу) черстветь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բանալէն
+ stem: բանալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: открывая, раскрывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բանէլէն
+ stem: բանէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: работая, трудясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բանուգգէգ
+ stem: բանուգգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно, в некоторой степени трудолюбивый
+ lemma_type: dialectal
+
+-lexeme
+ lex: բանցընէլէն
+ stem: բանցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: заставляя работать
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաշաբաշ
+ stem: բաշաբաշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: плотно, тесно (сидеть, располагаться и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաշլայվաձօվը
+ stem: բաշլայվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только начинается, началось и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաշխաջա
+ stem: բաշխաջա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отдельно, обособленно
+ lemma_type: dialectal
+
+-lexeme
+ lex: բառգէլէն
+ stem: բառգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: лёжа
+ lemma_type: dialectal
+
+-lexeme
+ lex: բառգըման
+ stem: բառգըման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: лёжа, в лежачем положении
+ lemma_type: dialectal
+
+-lexeme
+ lex: բառնալէն
+ stem: բառնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: грузя, загружая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բառցըվօրէլէն
+ stem: բառցըվօրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: загружая (телегу, автомобиль) и готовясь к отправке
+ lemma_type: dialectal
+
+-lexeme
+ lex: բասա
+ stem: բասա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то и дело, непрерывно, без конца, беспрестанно
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարաբ-բօշ
+ stem: բարաբ-բօշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: праздно, без дела
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարագ-մարագ
+ stem: բարագ-մարագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно тонкий
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարբէլէն
+ stem: բարբէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выгружая, разгружая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարբըվէլէն
+ stem: բարբըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: опустошаясь, становясь полым (о перезревшем арбузе)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարգընալէն
+ stem: բարգընալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: утончаясь, истончаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարգըցընէլէն
+ stem: բարգըցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: утончая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարդըգէլէն
+ stem: բարդըգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пряча, укрывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարդըգվէլէն
+ stem: բարդըգվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пропадая, исчезая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարդօք
+ stem: բարդօք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в долг (давать деньги)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարէգամնալէն
+ stem: բարէգամնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: заводя дружбу
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարթքօդէլէն
+ stem: բարթքօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: влезая в долги
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարձանքօդգէգ
+ stem: բարձանքօդգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно хвастливый, заносчивый
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարձընալէն
+ stem: բարձընալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хвастаясь, бахвалясь, гордясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բացըռման
+ stem: բացըռման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: высоко
+ lemma_type: dialectal
+
+-lexeme
+ lex: բացըռնալէն
+ stem: բացըռնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поднимаясь вверх
+ lemma_type: dialectal
+
+-lexeme
+ lex: բացվէլէն
+ stem: բացվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: открываясь, отворяясь, растворяясь, раскрываясь, распахиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաքնէլէն
+ stem: բաքնէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: целуя
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաքսաձսային
+ stem: բաքսաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) убавляется, убавлялось и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաքսաձօվը
+ stem: բաքսաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только убавляется и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաքսէլէն
+ stem: բաքսէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: убавляясь, уменьшаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաքսէցընէլէն
+ stem: բաքսէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: убавляя, уменьшая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բաքվօրէլէն
+ stem: բաքվօրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: целуясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէթէր
+ stem: բէթէր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: строго, сурово
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէթէրգէգ
+ stem: բէթէրգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: довольно строго, сурово
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէթէրնալէն
+ stem: բէթէրնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ухудшаясь, портясь (о погоде)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէթէրցընէլէն
+ stem: բէթէրցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ухудшая (состояние больного, ситуацию и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէկլայէլէն
+ stem: բէկլայէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: запирая (животных, домашних птиц)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէջէրէլէն
+ stem: բէջէրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: справляясь с делами
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէվախթ
+ stem: բէվախթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: некстати, не вовремя
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէրբադ
+ stem: բէրբադ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: очень плохо, совсем плохо
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէրէլէն
+ stem: բէրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: нося, неся, таская
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէրինքսիվար
+ stem: բէրինքսիվար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ничком, лицом вниз
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէրձէլէն
+ stem: բէրձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скучая, испытывая скуку, утомляясь от чего-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէքիմ
+ stem: բէքիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: авось
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըդբըդալէն
+ stem: բըդբըդալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: копаясь, неторопливо заниматься каким-либо делом
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըզդիգնալէն
+ stem: բըզդիգնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уменьшаясь, укорачиваясь, садясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըզդիգուց
+ stem: բըզդիգուց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с детства
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըլդըր-բըլդըր
+ stem: բըլդըր-բըլդըր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по капле (течь)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըլթ-բըլթ
+ stem: բըլթ-բըլթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вытекать струйкой (о воде из небольших родников)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըհօդվէլէն
+ stem: բըհօդվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прячась
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըհօդվէցընէլէն
+ stem: բըհօդվէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пряча, укрывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըղդօրէլէն
+ stem: բըղդօրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: делая мутным, непрозрачным
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըղդօրվաձսային
+ stem: բըղդօրվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: форма сред
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըղդօրվաձօվը
+ stem: բըղդօրվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: форма среднего залога наречия «быхъдорадзовы»
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըղդօրվէլէն
+ stem: բըղդօրվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пассивная форма среднего залога наречия «быхъдорэлэн»
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըջղէլէն
+ stem: բըջղէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: луща, очищая от скорлупы, шелухи
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըջղըվէլէն
+ stem: բըջղըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: лущась
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըռբըռալէն
+ stem: բըռբըռալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: брюзжа, ворча
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըռընգէլէն
+ stem: բըռընգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: испытывая жажду
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըռնէլէն
+ stem: բըռնէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хватая, держась за что-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըռնըվէլէն
+ stem: բըռնըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: постоянно используясь (о посуде, полотенце и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըռջընգէլէն
+ stem: բըռջընգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спутывая (от глагола действительного залога «быррджынгэл»)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըռջընգվէլէն
+ stem: բըռջընգվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спутываясь, перепутываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բիզ-բիզ
+ stem: բիզ-բիզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: торчком, дыбом (о волосах, шерстинках животных, кур и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բինդընալէն
+ stem: բինդընալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: густея, твердея
+ lemma_type: dialectal
+
+-lexeme
+ lex: բինդըցաձսային
+ stem: բինդըցաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) густеет и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բինդըցաձօվը
+ stem: բինդըցաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только густеет, загустел, загустеет и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բինդըցընէլէն
+ stem: բինդըցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: загущая
+ lemma_type: dialectal
+
+-lexeme
+ lex: բուռղուչէլէն
+ stem: բուռղուչէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скручивая шестом и уплотняя (сноп сена, соломы и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բուրում-բուրում
+ stem: բուրում-բուրում.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: клубясь, вздымаясь клубами (о дыме, паре, пыли)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօբօլօզ-բօբօլօզ
+ stem: բօբօլօզ-բօբօլօզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мелкими кучками (складывать, скирдовать сено и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօթէն
+ stem: բօթէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: напрасно, зря
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօլգէգ
+ stem: բօլգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно много, многовато
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօլէն-բօլ
+ stem: բօլէն-բօլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: предостаточно, в избытке, помногу, в большом количестве
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօլթ-բօլթ
+ stem: բօլթ-բօլթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: широко открытыми глазами (смотреть)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօլջա
+ stem: բօլջա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обильно, щедро
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրաձսայիս
+ stem: բօհրաձսայիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) жарю (семечки и т.п.), жарил и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրաձօվըս
+ stem: բօհրաձօվըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только я жарю (семечки и т.п.) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրըվաձսային
+ stem: բօհրըվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) жарится (прокаливается), будет жариться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրըվաձօվը
+ stem: բօհրըվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только жарится (прокаливается), пожарилось, будет жариться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրըվէլէն
+ stem: բօհրըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жарясь, прокаливаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրըվէցընէլէն
+ stem: բօհրըվէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: делая так, чтобы жарилось
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրըվէցուցաձսայիս
+ stem: բօհրըվէցուցաձսայիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) позволяю жариться
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօհրըվէցուցաձօվըս
+ stem: բօհրըվէցուցաձօվըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только я позволяю, чтобы жарилось и иссушилось на солнцепёке, как только я позволял, как только я позволю  и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօյդան-բօյ
+ stem: բօյդան-բօյ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: во всю длину
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօյօք
+ stem: բօյօք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в длину, вдоль
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօշ-բօշընա
+ stem: բօշ-բօշընա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: праздно, без дела
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօրբըսնէլէն
+ stem: բօրբըսնէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: плесневея
+ lemma_type: dialectal
+
+-lexeme
+ lex: բօրօդէլէն
+ stem: բօրօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: покрываясь чесоточной сыпью
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբգըբէլէն
+ stem: գաբգըբէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: завязывая, перевязывая, привязывая кое-как, небрежно
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբէլէն
+ stem: գաբէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: завязывая, связывая, привязывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբըռթէլէն
+ stem: գաբըռթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: завязывая кое-как, небрежно
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբըռթվէլէն
+ stem: գաբըռթվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: завязываясь, запутываясь, переплетаясь, перепутываясь, спутываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբուդգէլէն
+ stem: գաբուդգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: синея
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբուդգէցընէլ
+ stem: գաբուդգէցընէլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: синить, делать синим, покрывать синим цветом
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբուդգէցընէլէն
+ stem: գաբուդգէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: окрашивая в синий цвет
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաբռաշնալէն
+ stem: գաբռաշնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: приобретая размытый, неприятный цвет
+ lemma_type: dialectal
+
+-lexeme
+ lex: գագազգէգ
+ stem: գագազգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с небольшим заиканием (говорить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գագարագի
+ stem: գագարագի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тотчас, сразу, немедленно
+ lemma_type: dialectal
+
+-lexeme
+ lex: գագօխցընէլէն
+ stem: գագօխցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: размягчая, делая мягким
+ lemma_type: dialectal
+
+-lexeme
+ lex: գագօղնալէն
+ stem: գագօղնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: размягчаясь (о твёрдых предметах)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գադղէլէն
+ stem: գադղէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: приходя в ярость, свирепея
+ lemma_type: dialectal
+
+-lexeme
+ lex: գադղէցընէլէն
+ stem: գադղէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потворствуя озорству ребёнка
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթ-գաթ
+ stem: գաթ-գաթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по капле, капля по капле (течь, выливаться)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթաձսային
+ stem: գաթաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) капает (вытекает), капал, будет капать и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթաձօվը
+ stem: գաթաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только начинает капать и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթգըթաձսային
+ stem: գաթգըթաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) капает, накрапывает (о дожде) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթգըթաձօվը
+ stem: գաթգըթաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только начинает накрапывать (о дожде) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթգըթէլէն
+ stem: գաթգըթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: капая по каплям, разбрызгиваясь, расплёскиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթգըթէցընէլէն
+ stem: գաթգըթէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разбрызгивая, расплёскивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթէլէն
+ stem: գաթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: капая по каплям, накрапывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաթէցընէլէն
+ stem: գաթէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: капая по каплям
+ lemma_type: dialectal
+
+-lexeme
+ lex: գալգըլէլէն
+ stem: գալգըլէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: затыкая, заделывая (дыры, щели), закупоривая (горлышко бутылки и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գալէլէն
+ stem: գալէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: затыкая, заделывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գալսէլէն
+ stem: գալսէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: намолачивая, обмолачивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գալսըվէլէն
+ stem: գալսըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: намолачиваясь, обмолачиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գալվէլէն
+ stem: գալվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: закрываясь, забиваясь, закупориваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գախ-գախ
+ stem: գախ-գախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: друг за другом, вереницей, гуськом (идти)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գախվէլէն
+ stem: գախվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вешаясь, свешиваясь, наклоняясь вниз над чем-л.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաձըռ-գաձըռ
+ stem: գաձըռ-գաձըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: новый, недавно приобретённый (об автомобиле и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաղդուգէն
+ stem: գաղդուգէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скрытно, тайно
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամաց
+ stem: գամաց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: медленно, неспешно, неторопливо
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամաց-գամաց
+ stem: գամաց-գամաց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потихоньку, постепенно, понемногу, не торопясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամացնալէն
+ stem: գամացնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: замедляясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամացուգ
+ stem: գամացուգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тихо, тихонько
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամացցաձսային
+ stem: գամացցաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как затихает, затихал (о голосе, ветре, дожде и т.п.) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամացցաձօվը
+ stem: գամացցաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только затихает, затих, затихнет (о ветре, голосе и т.п.) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամացցընէլէն
+ stem: գամացցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: замедляя ход, шаг, скорость
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամացօվ
+ stem: գամացօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: медленно, неспешно, неторопливо
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամգար
+ stem: գամգար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: медленно, неторопливо, без особого желания (идти, делать что-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամգըմէլէն
+ stem: գամգըմէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прибивая гвоздями небрежно, кое-как
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամէլէն
+ stem: գամէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: приколачивая, прибивая гвоздями
+ lemma_type: dialectal
+
+-lexeme
+ lex: գայնէլէն
+ stem: գայնէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоя на ногах, находясь на ногах
+ lemma_type: dialectal
+
+-lexeme
+ lex: գայնէցընէլէն
+ stem: գայնէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: останавливая, прекращая движение (автомобиля и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գայնըման
+ stem: գայնըման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоя (о человеке)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանգադվէլէն
+ stem: գանգադվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жалуясь, ругая, сетуя
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանէլէն
+ stem: գանէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: брезгуя, испытывая отвращение
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանէլիք
+ stem: գանէլիք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: брезгливость
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանըշթէլէն
+ stem: գանըշթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: зеленея
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանչէլէն
+ stem: գանչէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: крича
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանչըռդէլէն
+ stem: գանչըռդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: громко крича, повышая голос
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանչվըռդէլէն
+ stem: գանչվըռդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: гневно крича друг на друга
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանօխ
+ stem: գանօխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рано
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանօխգէգ
+ stem: գանօխգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рановато, довольно рано
+ lemma_type: dialectal
+
+-lexeme
+ lex: գանօխվանէ
+ stem: գանօխվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с раннего утра, с утра пораньше, спозаранку
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաշթալէն
+ stem: գաշթալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: читая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաշթացընէլէն
+ stem: գաշթացընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: заставляя читать
+ lemma_type: dialectal
+
+-lexeme
+ lex: գաշթացվէլէն
+ stem: գաշթացվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: читаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գարգըդէլէն
+ stem: գարգըդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: латая, ставя заплатку
+ lemma_type: dialectal
+
+-lexeme
+ lex: գարգըդվէլէն
+ stem: գարգըդվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: латаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գարէլէն
+ stem: գարէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: занимаясь шитьём
+ lemma_type: dialectal
+
+-lexeme
+ lex: գարմըրէլէն
+ stem: գարմըրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: краснея (от стыда и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գարմըրցընէլէն
+ stem: գարմըրցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вгоняя в краску
+ lemma_type: dialectal
+
+-lexeme
+ lex: գարջընալէն
+ stem: գարջընալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: укорачиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գարօդէլէն
+ stem: գարօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тоскуя, скучая (по кому-либо).	
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէնալէն
+ stem: գէնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оставаясь, пребывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէնէ
+ stem: գէնէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снова, опять
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէնէ-գէնէ
+ stem: գէնէ-գէնէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: и всё-таки, и всё же, и тем не менее
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէնջ-գէնջ
+ stem: գէնջ-գէնջ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в молодом возрасте
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէռացընէլէն
+ stem: գէռացընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вызывая зуд
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէսվագէս
+ stem: գէսվագէս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: напополам
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէրաձ-չիգէրաձ
+ stem: գէրաձ-չիգէրաձ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сразу после еды
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէրանալէն
+ stem: գէրանալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: полнея, тучнея, толстея
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէցընէլէն
+ stem: գէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: позволяя оставаться
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդգըդէլէն
+ stem: գըդգըդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: толкая, подталкивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդէլէն
+ stem: գըդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: толкая, подталкивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդըռդէլէն
+ stem: գըդըռդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кромсая, разрывая на части
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդըռդվաձսային
+ stem: գըդըռդվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) рвётся и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդըռդվէլէն
+ stem: գըդըռդվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обрываясь (о нитке, верёвке и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդռաձսային
+ stem: գըդռաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как затихает и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդռաձօվը
+ stem: գըդռաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только затихает и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդռէ-գըցէ
+ stem: գըդռէ-գըցէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: урывками, время от времени, от случая к случаю (делать что-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդռէլէն
+ stem: գըդռէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отрезая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդօր-գըդօր
+ stem: գըդօր-գըդօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: частями, по частям, по кусочкам
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդօր-մըդօր
+ stem: գըդօր-մըդօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по кусочкам, по крупинкам, по крохам
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըդօր-փըշօր
+ stem: գըդօր-փըշօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: крохи, крошки, крупинки
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըզդըռվէլէն
+ stem: գըզդըռվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скользя
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըզէլէն
+ stem: գըզէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чеша, скобля (шерсть)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըթէլէն
+ stem: գըթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: доя, надаивая (молоко)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըթվէլէն
+ stem: գըթվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: доясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլթ-գըլթ
+ stem: գըլթ-գըլթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание звуку, издаваемому при жадном питье воды и жадном поглощении пищи
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլօխբաց
+ stem: գըլօխբաց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с непокрытой головой
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլօրգէգ
+ stem: գըլօրգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кругловатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլօրէլէն
+ stem: գըլօրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: катая, перекатывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլօրման
+ stem: գըլօրման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по кругу, вкруговую
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլօրնալէն
+ stem: գըլօրնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: округляясь, принимая шарообразную форму
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլօրվէլէն
+ stem: գըլօրվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кубарем, катясь, перекатываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլօրցընէլէն
+ stem: գըլօրցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: округляя, придавая круглую форму
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըձգըդէլէն
+ stem: գըձգըդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: съёживаясь, скукоживаясь, сжимаясь в комок от холода
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըձըգէլէն
+ stem: գըձըգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мотая, наматывая в клубок
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըձըռ-գըձըռ
+ stem: գըձըռ-գըձըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание потрескиванию горящих дров
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըձվաձսային
+ stem: գըձվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) прогоркает, прогоркнет и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըձվաձօվը
+ stem: գըձվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только прогоркает и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըձվէլէն
+ stem: գըձվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прогоркая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գընդէլէն
+ stem: գընդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скатывая в шар (о тесте)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գընէլէն
+ stem: գընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: покупая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըջ-գըջ
+ stem: գըջ-գըջ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шкворчание, подражание потрескиванию сильно нагретого масла
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըջէլէն
+ stem: գըջէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жаля, кусая.	
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըռձէլէն
+ stem: գըռձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обгрызая, обгладывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըռնըգի
+ stem: գըռնըգի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спиной, на спине
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըսկըձէլէն
+ stem: գըսկըձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: раздражая, вызывая ощущение жжения
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըրգէլէն
+ stem: գըրգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беря на руки
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըրգըվէլէն
+ stem: գըրգըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беря на руки
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըրէլէն
+ stem: գըրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: перенося, перевозя с одного места в другое (груз, предметы и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըրվաձօվը
+ stem: գըրվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только пишется (письмо, официальная бумага, книга и т.п.), будет написан и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըրվէլէն
+ stem: գըրվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: переносясь, перевозясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըցմըցէլէն
+ stem: գըցմըցէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: соединяя, скрепляя части чего-либо кое-как, небрежно, спустя рукава (при ремонте, починке и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըցվէլէն
+ stem: գըցվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: путаясь, спутываясь с кем-либо, сдружаясь с кем-либо (с негатвным оттенком)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըփչէլէն
+ stem: գըփչէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: касаясь, дотрагиваясь, задевая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըփչըդէցընէլէն
+ stem: գըփչըդէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: приклеивая повсюду
+ lemma_type: dialectal
+
+-lexeme
+ lex: գիբի
+ stem: գիբի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как, подобно тому как
+ lemma_type: dialectal
+
+-lexeme
+ lex: գիդիսքի
+ stem: գիդիսքի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кажется, как будто
+ lemma_type: dialectal
+
+-lexeme
+ lex: գիդնալօվ
+ stem: գիդնալօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: зная, обладая знаниями
+ lemma_type: dialectal
+
+-lexeme
+ lex: գիրագվանին
+ stem: գիրագվանին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: воскресный
+ lemma_type: dialectal
+
+-lexeme
+ lex: գիրագվանէ
+ stem: գիրագվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с воскресенья, начиная с воскресенья
+ lemma_type: dialectal
+
+-lexeme
+ lex: գյուզին
+ stem: գյուզին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: осенью
+ lemma_type: dialectal
+
+-lexeme
+ lex: գյուզվանէ
+ stem: գյուզվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с осени
+ lemma_type: dialectal
+
+-lexeme
+ lex: գյօրգյօրէ
+ stem: գյօրգյօրէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: напрасно, зря
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուգուզ
+ stem: գուգուզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на корточках
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուդու-գուդու
+ stem: գուդու-գուդու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дружно, в мире и согласии, душа в душу (жить, работать и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուզ-գուզ
+ stem: գուզ-գուզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: гроздьями
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուլի
+ stem: գուլի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: со сломанным рогом (о корове, воле)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գումբուռ-գումբուռ
+ stem: գումբուռ-գումբուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: громко, громоподобно
+ lemma_type: dialectal
+
+-lexeme
+ lex: գունդգէգ
+ stem: գունդգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кругловатый, достаточно круглый, округлый
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուշթգէգ
+ stem: գուշթգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: довольно сытно (есть)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուշթ-գուշթ
+ stem: գուշթ-գուշթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выразительно, смачно
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուռուլ-գուռուլ
+ stem: գուռուլ-գուռուլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шумно, с шумом (при ударе или трении твёрдых предметов друг о друга)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուռջի-մուռջի
+ stem: գուռջի-մուռջի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бестолково, непонятливо (говорить, рассказывать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գուռջինագ
+ stem: գուռջինագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: непонятно, на непонятном языке (говорить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօգէլէն
+ stem: գօգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разминая (мадзун)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօգտէ
+ stem: գօգտէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно, довольно, хватит
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօդըռդէլէն
+ stem: գօդըռդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ломая, разбивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօդռէլէն
+ stem: գօդռէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ломая, разламывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօդօշվէլէն
+ stem: գօդօշվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бодаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօզօդէլէն
+ stem: գօզօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкаясь засохшей мочой
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօլթ-գօլթ
+ stem: գօլթ-գօլթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание звуку, издаваемому при жадном питье воды и жадном поглощении пищи
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօխէլէն
+ stem: գօխէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наступая (и далее во всех значениях глагола «гохэл»)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօխվաձօվը
+ stem: գօխվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только утаптывается (утрамбовывается) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօխվէլէն
+ stem: գօխվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уплотняясь, утрамбовываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօխցըվէլէն
+ stem: գօխցըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: утаптываясь, утрамбовываясь, уплотняясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօխցընէլէն
+ stem: գօխցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уплотняя, утрамбовывая, спрессовывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօղի
+ stem: գօղի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в сторону, в стороне
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօղի-գօղի
+ stem: գօղի-գօղի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: криво, косо
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօղնալէն
+ stem: գօղնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: воруя, крадя
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօնդալան
+ stem: գօնդալան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поперёк, по ширине
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօնդալան-բօյօք
+ stem: գօնդալան-բօյօք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беспорядочно, сбивчиво, путано, хаотично
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօչէլէն
+ stem: գօչէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: перемещая, переселяя
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօչվէլէն
+ stem: գօչվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: переселяясь из одного места в другое
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօջադ-գօջադ
+ stem: գօջադ-գօջադ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по капельке, капля по капле (стекать, о поте)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօջգէլէն
+ stem: գօջգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: застёгивая (пуговицу)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօջգըվէլէն
+ stem: գօջգըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: застёгиваясь (о пуговице)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօռջալէն
+ stem: գօռջալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жуя (о животных)
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօվէլէն
+ stem: գօվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хваля, расхваливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօրձէլէն
+ stem: գօրձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прядя
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաբգըվէլէն
+ stem: դաբգըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жарясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաբրա
+ stem: դաբրա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: раз
+ lemma_type: dialectal
+
+-lexeme
+ lex: դագէն
+ stem: դագէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снизу
+ lemma_type: dialectal
+
+-lexeme
+ lex: դագէն-տուպճուկէն
+ stem: դագէն-տուպճուկէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подробно, детально (расспрашивать, осведомляться)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դագէվանց
+ stem: դագէվանց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тайно, скрытно, украдкой, исподтишка
+ lemma_type: dialectal
+
+-lexeme
+ lex: դագը
+ stem: դագը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: под
+ lemma_type: dialectal
+
+-lexeme
+ lex: դագնիվըրա
+ stem: դագնիվըրա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вверх дном, в полном беспорядке
+ lemma_type: dialectal
+
+-lexeme
+ lex: դահա
+ stem: դահա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ещё, больше, пока, пока ещё, до сих пор, всё ещё
+ lemma_type: dialectal
+
+-lexeme
+ lex: դամար-դամար
+ stem: դամար-դամար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с прожилками (о мясе)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դամբուռ-դումբուռ
+ stem: դամբուռ-դումբուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с шумом, с грохотом, с треском (падать и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դայմա
+ stem: դայմա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часто, постоянно, всё время
+ lemma_type: dialectal
+
+-lexeme
+ lex: դանէ-դանէ
+ stem: դանէ-դանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поштучно, по одному, по отдельности (отбирать и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դանջէլէն
+ stem: դանջէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мучая, терзая
+ lemma_type: dialectal
+
+-lexeme
+ lex: դանջըվէլէն
+ stem: դանջըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мучаясь, страдая
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաշդըշէլէն
+ stem: դաշդըշէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обтёсывая местами, небрежно
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաշէլէն
+ stem: դաշէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обтёсывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաշվէլէն
+ stem: դաշվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обтёсываясь, строгаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաջգընագ
+ stem: դաջգընագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-турецки
+ lemma_type: dialectal
+
+-lexeme
+ lex: դառհալաթ
+ stem: դառհալաթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: еле-еле, едва, с трудом, чуть, чуть было не
+ lemma_type: dialectal
+
+-lexeme
+ lex: դառհէլէն
+ stem: դառհէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: затвердевая от перезревания и становясь непригодным для употребления в пищу (об огурце)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դառցընէլէն
+ stem: դառցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возвращая
+ lemma_type: dialectal
+
+-lexeme
+ lex: դարէբըդույդ
+ stem: դարէբըդույդ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в течение года
+ lemma_type: dialectal
+
+-lexeme
+ lex: դարէգան
+ stem: դարէգան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в сочетании с числительными показывает возраст, количество лет от рождения или от создания чего-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: դարէլէն
+ stem: դարէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выигрывая, побеждая (в игре и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դարվան
+ stem: դարվան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: годовой
+ lemma_type: dialectal
+
+-lexeme
+ lex: դարվէլէն
+ stem: դարվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: проигрывая, лишаясь денег или имущества играя в азартные игры
+ lemma_type: dialectal
+
+-lexeme
+ lex: դափէլէն
+ stem: դափէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: боронуя, разрыхляя почву
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաք-դաք
+ stem: դաք-դաք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с пылу с жару (о только что приготовленной пище)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաքնալէն
+ stem: դաքնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: теплея (во всех значениях глагола «дакhнал»)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաքուն
+ stem: դաքուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в жару
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաքցընէլէն
+ stem: դաքցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: грея, согревая
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաքցուցաձօվըս
+ stem: դաքցուցաձօվըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только грею, согрел и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէբէդէվ
+ stem: դէբէդէվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: назад
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէգիշ
+ stem: դէգիշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часто, нередко
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէգմէ
+ stem: դէգմէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: давно не
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէզ-դէզ
+ stem: դէզ-դէզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стогами
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէզօվ
+ stem: դէզօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стогами, копнами
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէղ-դէղ
+ stem: դէղ-դէղ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: местами, кое-где
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէղանագօվ
+ stem: դէղանագօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: основательно, обстоятельно (делать что-либо, рассказывать о чём-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէղօվ-դէղօվ
+ stem: դէղօվ-դէղօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обстоятельно, основательно, подробно, детально
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէղօց-դէղ
+ stem: դէղօց-դէղ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: местами, кое-где
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէմ
+ stem: դէմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: против, напротив
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէմէթ-դէմէթ
+ stem: դէմէթ-դէմէթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снопами, связками, пучками
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէնքսըզ-դէնքսըզ
+ stem: դէնքսըզ-դէնքսըզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: нагло, дерзко, бесстыже
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէսթէ-դէսթէ
+ stem: դէսթէ-դէսթէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стогами, снопами
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէսօք-սօյէն
+ stem: դէսօք-սօյէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: душевно, от души (есть, пить, гулять)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէրվարին
+ stem: դէրվարին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вниз, книзу, под гору
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէրվէրին
+ stem: դէրվէրին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кверху, вверх, наверх
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըգարցաձսային
+ stem: դըգարցաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как заболевает, болел, будет болеть и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըզվէլէն
+ stem: դըզվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скользя, катаясь на коньках
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըղագուց
+ stem: դըղագուց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с детства
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըղդըղէլէն
+ stem: դըղդըղէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: размягчаясь и портясь (от намокания)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դընգըման
+ stem: դընգըման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вертикально, торчком, стоя
+ lemma_type: dialectal
+
+-lexeme
+ lex: դընգըվիմ-չըդընգըվիմ
+ stem: դընգըվիմ-չըդընգըվիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот-вот (упадёт, обрушится, опрокинется), ещё немного и (упадёт, обрушится, опрокинется)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըրաձսայիս
+ stem: դըրաձսայիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) кладу (ставлю), клал и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըրաձօվըս
+ stem: դըրաձօվըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только кладу (ставлю), клал и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըրէմ
+ stem: դըրէմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чуть-чуть, немного
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըրէմօվ
+ stem: դըրէմօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по чуть-чуть, понемногу
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըքալէն
+ stem: դըքալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоная, кряхтя (от боли, горя, под тяжестью груза и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըքդըքալէն
+ stem: դըքդըքալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: постанывая, покряхтывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: դիբէլիք
+ stem: դիբէլիք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прямо
+ lemma_type: dialectal
+
+-lexeme
+ lex: դիթ-բաբավ
+ stem: դիթ-բաբավ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мигом, стремглав, опрометью, без оглядки (бежать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դիժար-միժար
+ stem: դիժար-միժար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с трудом, через силу
+ lemma_type: dialectal
+
+-lexeme
+ lex: դիլէ-դիլէ
+ stem: դիլէ-դիլէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по одному (собирать, отбирать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դիմաց
+ stem: դիմաց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: против, напротив
+ lemma_type: dialectal
+
+-lexeme
+ lex: դիմացդէմ
+ stem: դիմացդէմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: друг против друга
+ lemma_type: dialectal
+
+-lexeme
+ lex: դինգօզ-դինգօզ
+ stem: դինգօզ-դինգօզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: грубо, по-хамски (говорить, отвечать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դյուք-դյուզինա
+ stem: դյուք-դյուզինա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прямо
+ lemma_type: dialectal
+
+-lexeme
+ lex: դուզէնօվ
+ stem: դուզէնօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: медленно, неспешно, неторопливо
+ lemma_type: dialectal
+
+-lexeme
+ lex: դունյային
+ stem: դունյային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: много, порядочно, достаточно, в изобилии
+ lemma_type: dialectal
+
+-lexeme
+ lex: դուսը
+ stem: դուսը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на улице
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօդօվէլէն
+ stem: դօդօվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сетуя, ропща, жалуясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօղալէն
+ stem: դօղալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дрожа, трясясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօղդըղալէն
+ stem: դօղդըղալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дрожа
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօղրուսու
+ stem: դօղրուսու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: откровенно говоря, по правде говоря
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօյիմ
+ stem: դօյիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: изрядно, сверх меры, чересчур (есть, пить и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: զայէր
+ stem: զայէր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наверное, скорее всего, возможно
+ lemma_type: dialectal
+
+-lexeme
+ lex: զանգըռ-զանգըռ
+ stem: զանգըռ-զանգըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание сильной дрожи всего тела
+ lemma_type: dialectal
+
+-lexeme
+ lex: զաշթաձ-չիզաշթաձ
+ stem: զաշթաձ-չիզաշթաձ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спросонья, едва проснувшись, еле продрав глаза
+ lemma_type: dialectal
+
+-lexeme
+ lex: զառօվ-զօռօվ
+ stem: զառօվ-զօռօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с большим трудом
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըբըռ-զըբըռ
+ stem: զըբըռ-զըբըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беспрерывно, чередой, один за другим (случаться, происходить, идти)
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըթ
+ stem: զըթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наперекор, вопреки
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըթընա
+ stem: զըթընա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наперекор, назло
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըխի
+ stem: զըխի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: быстро, спешно, скоро, срочно
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըղագըդօր
+ stem: զըղագըդօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вдребезги
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըռալէն
+ stem: զըռալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с трудом, едва, насилу (выполнять работу, нести груз и т.д.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըռթը-զըռթը
+ stem: զըռթը-զըռթը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часто, зачастую, нередко
+ lemma_type: dialectal
+
+-lexeme
+ lex: զըփ-զըփ
+ stem: զըփ-զըփ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: торопливо, поспешно
+ lemma_type: dialectal
+
+-lexeme
+ lex: զուր
+ stem: զուր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: напрасно, зря
+ lemma_type: dialectal
+
+-lexeme
+ lex: զօռաքի
+ stem: զօռաքի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: насильно, против воли
+ lemma_type: dialectal
+
+-lexeme
+ lex: զօռ-զօռաքի
+ stem: զօռ-զօռաքի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: насильно, против воли
+ lemma_type: dialectal
+
+-lexeme
+ lex: զօռօվ
+ stem: զօռօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: насильно, принудительно, против воли
+ lemma_type: dialectal
+
+-lexeme
+ lex: զօռօվ-մօռօվ
+ stem: զօռօվ-մօռօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с большим трудом, еле-еле
+ lemma_type: dialectal
+
+-lexeme
+ lex: զօրքօվ
+ stem: զօրքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с помощью, при помощи
+ lemma_type: dialectal
+
+-lexeme
+ lex: էդէվ
+ stem: էդէվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: назад
+ lemma_type: dialectal
+
+-lexeme
+ lex: էդէվէն
+ stem: էդէվէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сзади
+ lemma_type: dialectal
+
+-lexeme
+ lex: էդէվ-էդէվի
+ stem: էդէվ-էդէվի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чередой, один за другим, по порядку
+ lemma_type: dialectal
+
+-lexeme
+ lex: էղաձը
+ stem: էղաձը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: итого, всего
+ lemma_type: dialectal
+
+-lexeme
+ lex: էղաձ-չէղաձը
+ stem: էղաձ-չէղաձը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: итого, всего, всего-лишь, всего-навсего, только лишь
+ lemma_type: dialectal
+
+-lexeme
+ lex: էղաձնա
+ stem: էղաձնա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: совсем, совсем уж, окончательно
+ lemma_type: dialectal
+
+-lexeme
+ lex: էյան-բէյանի
+ stem: էյան-բէյանի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: очевидно, вероятно
+ lemma_type: dialectal
+
+-lexeme
+ lex: էնդի
+ stem: էնդի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уже
+ lemma_type: dialectal
+
+-lexeme
+ lex: էնխասթէն
+ stem: էնխասթէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вдумчиво, обдуманно, целенаправленно
+ lemma_type: dialectal
+
+-lexeme
+ lex: էնջամը
+ stem: էնջամը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: следовательно, значит, стало быть, поэтому, итак
+ lemma_type: dialectal
+
+-lexeme
+ lex: էշգյարէ
+ stem: էշգյարէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: открыто, явно
+ lemma_type: dialectal
+
+-lexeme
+ lex: էշէքլէմէ
+ stem: էշէքլէմէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-ослиному
+ lemma_type: dialectal
+
+-lexeme
+ lex: էվէլ-էվէլդէն
+ stem: էվէլ-էվէլդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: издавна, с давних пор
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգանջագէգ
+ stem: էրգանջագէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: слегка, немного вдоль, немного продольно
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգանջայէն
+ stem: էրգանջայէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вдоль, в длину, продольно
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգան-բարագ
+ stem: էրգան-բարագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: долго ли, коротко ли
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգէրգու
+ stem: էրգէրգու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по два
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէգ
+ stem: էրէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вчера
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէգվան
+ stem: էրէգվան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вчерашний
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէգվանէ
+ stem: էրէգվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: со вчерашнего дня
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէմ-սէրսէմ
+ stem: էրէմ-սէրսէմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шатаясь, покачиваясь (идти)
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէսանց
+ stem: էրէսանց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снаружи
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէս-էրէսի
+ stem: էրէս-էրէսի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: лицом к лицу, с глазу на глаз
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէսվէրէսի
+ stem: էրէսվէրէսի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наедине, лицом к лицу
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէվունքէն
+ stem: էրէվունքէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с виду, на вид, внешне, судя по всему, по всей вероятности
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրէրալէն
+ stem: էրէրալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шатаясь, покачиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: էփէյի
+ stem: էփէյի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: довольно, достаточно, порядочно, изрядно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ըյնիմ-չըյնիմ
+ stem: ըյնիմ-չըյնիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот-вот (упадёт), ещё немного и (упадёт)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ընթէմ
+ stem: ընթէմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: против, наперекор
+ lemma_type: dialectal
+
+-lexeme
+ lex: ընձէլէն
+ stem: ընձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кося, срезая косой (траву)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ընձըվէլէն
+ stem: ընձըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: косясь, скашиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ընչէցընէլէն
+ stem: ընչէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: опуская, спуская вниз
+ lemma_type: dialectal
+
+-lexeme
+ lex: ընչընէլէն
+ stem: ընչընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спускаясь, опускаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ըռըխտըմ
+ stem: ըռըխտըմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: полным-полно, в избытке, хоть отбавляй
+ lemma_type: dialectal
+
+-lexeme
+ lex: ըռինդգէգ
+ stem: ըռինդգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно хорошо, довольно хорошо, весьма неплохо
+ lemma_type: dialectal
+
+-lexeme
+ lex: ըռինդծընէլէն
+ stem: ըռինդծընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: улучшая, совершенствуя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ըռինդնալէն
+ stem: ըռինդնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: улучшаясь (о качестве)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ըռինդօր
+ stem: ըռինդօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хорошо, что
+ lemma_type: dialectal
+
+-lexeme
+ lex: թամամ
+ stem: թամամ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: весь, целиком
+ lemma_type: dialectal
+
+-lexeme
+ lex: թային
+ stem: թային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно, довольно
+ lemma_type: dialectal
+
+-lexeme
+ lex: թանգգէգ
+ stem: թանգգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно дорогой
+ lemma_type: dialectal
+
+-lexeme
+ lex: թառհալաթ
+ stem: թառհալաթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с трудом, едва, насилу, еле, кое-как
+ lemma_type: dialectal
+
+-lexeme
+ lex: թավօվ
+ stem: թավօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: удачно, успешно
+ lemma_type: dialectal
+
+-lexeme
+ lex: թափ
+ stem: թափ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: аж
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէգարան
+ stem: թէգարան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неторопливо, неспешно
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէզ
+ stem: թէզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: быстро, скоро
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէզ-թէզ
+ stem: թէզ-թէզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поспешно, торопливо, быстро-быстро
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէզգէգ
+ stem: թէզգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: побыстрее, порезвее
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէզօվ
+ stem: թէզօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поспешно, торопливо, быстро-быстро
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէմբէլգէգ
+ stem: թէմբէլգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немного ленивый, бездеятельный
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէմէլդէն
+ stem: թէմէլդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в сущности, по сути
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէմիզգէգ
+ stem: թէմիզգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: слегка чистый, достаточно чистый
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէռս-մէռս
+ stem: թէռս-մէռս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наперекосяк, вкривь и вкось
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէրխաշ
+ stem: թէրխաշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: всмятку (о варёном яйце)
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէփէսընդա
+ stem: թէփէսընդա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с верхом, с излишком, с избытком (налитый, насыпанный)
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէփուգօդգէգ
+ stem: թէփուգօդգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно шелушащийся
+ lemma_type: dialectal
+
+-lexeme
+ lex: թըմըլըխ
+ stem: թըմըլըխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кровь с молоком (о девушке)
+ lemma_type: dialectal
+
+-lexeme
+ lex: թըռըլ-թըռըլ
+ stem: թըռըլ-թըռըլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вприпрыжку (ходить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: թի
+ stem: թի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сторона
+ lemma_type: dialectal
+
+-lexeme
+ lex: թիյաց
+ stem: թիյաց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: թիփ-թամամ
+ stem: թիփ-թամամ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: заполненный до краёв
+ lemma_type: dialectal
+
+-lexeme
+ lex: թուրքէրէն
+ stem: թուրքէրէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-турецки
+ lemma_type: dialectal
+
+-lexeme
+ lex: թօլուխ-թօլուխ
+ stem: թօլուխ-թօլուխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: полным-полно, до краёв
+ lemma_type: dialectal
+
+-lexeme
+ lex: թօփ-թօփ
+ stem: թօփ-թօփ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: гурьбой, толпами
+ lemma_type: dialectal
+
+-lexeme
+ lex: թօփալ-թօփալ
+ stem: թօփալ-թօփալ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хромая, прихрамывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: թօփթան
+ stem: թօփթան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оптом
+ lemma_type: dialectal
+
+-lexeme
+ lex: թօփօվ
+ stem: թօփօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: гурьбой, толпой
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժամանագին
+ stem: ժամանագին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вовремя, в удобный, подходящий момент
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժամանագ-ժամանագ
+ stem: ժամանագ-ժամանագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: временами, иногда, порой
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժէքշափթըվան
+ stem: ժէքշափթըվան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вторничный
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժօղօդման
+ stem: ժօղօդման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в порядке, в чистоте (держать дом, двор и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: իդաբէս
+ stem: իդաբէս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так, таким образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: իդախադար
+ stem: իդախադար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, столь
+ lemma_type: dialectal
+
+-lexeme
+ lex: իդաքան
+ stem: իդաքան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, так
+ lemma_type: dialectal
+
+-lexeme
+ lex: իլլա-իլլաջ
+ stem: իլլա-իլլաջ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: волей-неволей, поневоле
+ lemma_type: dialectal
+
+-lexeme
+ lex: իլլայի
+ stem: իլլայի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: особенно, в особенности
+ lemma_type: dialectal
+
+-lexeme
+ lex: իհարգէ
+ stem: իհարգէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: конечно, разумеется
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինաբէս
+ stem: ինաբէս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так, просто так
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինախտա
+ stem: ինախտա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, настолько, до такой степени, так
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինաքան
+ stem: ինաքան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, настолько, так
+ lemma_type: dialectal
+
+-lexeme
+ lex: իննադու
+ stem: իննադու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: назло, в пику кому-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: իննօց
+ stem: իննօց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достоинством в девять (рублей и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչէրօվ
+ stem: ինչէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с большим трудом
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչի
+ stem: ինչի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: зачем, почему
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչխադար
+ stem: ինչխադար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сколько, сколь, насколько, в какой мере, в какой степени
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչվանքի
+ stem: ինչվանքի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: до
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչվաս
+ stem: ինչվաս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уже, уже бы, уже давно бы
+ lemma_type: dialectal
+
+-lexeme
+ lex: իսէ
+ stem: իսէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только, если, же
+ lemma_type: dialectal
+
+-lexeme
+ lex: իսկի
+ stem: իսկի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вовсе, совсем, нисколько, ничуть
+ lemma_type: dialectal
+
+-lexeme
+ lex: իրգունը
+ stem: իրգունը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вечером, в вечернее время
+ lemma_type: dialectal
+
+-lexeme
+ lex: իրգունօվ
+ stem: իրգունօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вечером, в вечернее время
+ lemma_type: dialectal
+
+-lexeme
+ lex: իրգվանէ
+ stem: իրգվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с вечера
+ lemma_type: dialectal
+
+-lexeme
+ lex: իրէն-իրէն
+ stem: իրէն-իրէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сам по себе, не смешанный ни с чем, без примеси, в чистом виде (о продуктах)
+ lemma_type: dialectal
+
+-lexeme
+ lex: լալէն
+ stem: լալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: плача
+ lemma_type: dialectal
+
+-lexeme
+ lex: լափաշ-լափաշ
+ stem: լափաշ-լափաշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: крупно, развесисто (висеть, о листьях растений)
+ lemma_type: dialectal
+
+-lexeme
+ lex: լուսէ-լուս
+ stem: լուսէ-լուս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от зари до зари
+ lemma_type: dialectal
+
+-lexeme
+ lex: լուսօվ
+ stem: լուսօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: засветло, до наступления темноты
+ lemma_type: dialectal
+
+-lexeme
+ lex: լօգ
+ stem: լօգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: только, лишь, всего лишь
+ lemma_type: dialectal
+
+-lexeme
+ lex: լօզ-լօզ
+ stem: լօզ-լօզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отслаиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: խադար
+ stem: խադար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, настолько
+ lemma_type: dialectal
+
+-lexeme
+ lex: խազախնագ
+ stem: խազախնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-русски
+ lemma_type: dialectal
+
+-lexeme
+ lex: խաթէյօվ
+ stem: խաթէյօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: опасный
+ lemma_type: dialectal
+
+-lexeme
+ lex: խաթը-խաթին
+ stem: խաթը-խաթին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: несколько комплектов (одежды)
+ lemma_type: dialectal
+
+-lexeme
+ lex: խաթի
+ stem: խաթի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: очень, сильно, чересчур, чрезвычайно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խաթի-խաթի
+ stem: խաթի-խաթի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: проворно, резво, расторопно, быстро
+ lemma_type: dialectal
+
+-lexeme
+ lex: խաթիգէգ
+ stem: խաթիգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно быстро, резво, проворно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խալամ-բալամ
+ stem: խալամ-բալամ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так себе, ни то, ни сё, ни шатко, ни валко (о работе, выполненной наспех, кое-как и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: խաձնէլօվ
+ stem: խաձնէլօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вприкуску (пить чай, кофе с сахаром)
+ lemma_type: dialectal
+
+-lexeme
+ lex: խայէրօվ
+ stem: խայէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в меру, в достаточной степени, в достаточной мере
+ lemma_type: dialectal
+
+-lexeme
+ lex: խայթա
+ stem: խայթա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скоро, быстро, спешно, проворно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խայթըբ
+ stem: խայթըբ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как положено, как подобает, должным образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: խայխադան
+ stem: խայխադան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с опозданием, через некоторое время
+ lemma_type: dialectal
+
+-lexeme
+ lex: խայրէթլը
+ stem: խայրէթլը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: усердно, старательно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խայրաթօվ
+ stem: խայրաթօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: усердно, старательно, рьяно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խանգըռաձսային
+ stem: խանգըռաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как выцветает, линяет, желтеет и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: խանձէլէն
+ stem: խանձէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обжигая, опаливая, обугливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: խաչլամա
+ stem: խաչլամա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: крест-накрест
+ lemma_type: dialectal
+
+-lexeme
+ lex: խէվին-խօլօքին
+ stem: խէվին-խօլօքին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: безрассудно, бездумно, опрометчиво
+ lemma_type: dialectal
+
+-lexeme
+ lex: խըմաձսայիս
+ stem: խըմաձսայիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мере того как (чем больше) я пью, пил, буду пить и т.д., ты пьёшь, пил, будешь пить и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: խըմաձօվըս
+ stem: խըմաձօվըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только пью, пил, буду пить и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: խըմէլէն
+ stem: խըմէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выпивая, пьянствуя
+ lemma_type: dialectal
+
+-lexeme
+ lex: խընդալէն
+ stem: խընդալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: смеясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: խընթավլու
+ stem: խընթավլու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: должным образом, как положено, как следует
+ lemma_type: dialectal
+
+-lexeme
+ lex: խըռ-խըռ
+ stem: խըռ-խըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: постепенно, не торопясь, понемногу
+ lemma_type: dialectal
+
+-lexeme
+ lex: խիստ
+ stem: խիստ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: очень, сильно, крайне
+ lemma_type: dialectal
+
+-lexeme
+ lex: խուլուլիգ-մուլուլիգ
+ stem: խուլուլիգ-մուլուլիգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пронзительно (кричать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: խունդումօվ
+ stem: խունդումօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: радостно, весело
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօ
+ stem: խօ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, уж
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօլայցաձօվը
+ stem: խօլայցաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только упрощается (облегчается), будет упрощаться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօլայցաձսային
+ stem: խօլայցաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) упрощается (облегчается), упрощалось (дело, работа и т.п.) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօլայցունէլու
+ stem: խօլայցունէլու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тот, кто может или должен упростить, облегчить (работу и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօլայութինօվ
+ stem: խօլայութինօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: легко, без труда
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօլայօվ
+ stem: խօլայօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: легко, без труда
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօշթ
+ stem: խօշթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: правильно, верно, точно, истинно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօշթ-խօշթ
+ stem: խօշթ-խօշթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в самом деле, действительно, воистину
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօշթաձսայիս
+ stem: խօշթաձսայիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) строю, строил, буду строить и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօշթաձօվըս
+ stem: խօշթաձօվըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только строю, строил, буду строить и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօշթմուդէն
+ stem: խօշթմուդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на самом деле, действительно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօշթօր
+ stem: խօշթօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на самом деле, действительно
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօջադէնէգ
+ stem: խօջադէնէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-барски
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօռօվանգէգ
+ stem: խօռօվանգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: слегка обидчивый
+ lemma_type: dialectal
+
+-lexeme
+ lex: խօրսամ
+ stem: խօրսամ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как будто
+ lemma_type: dialectal
+
+-lexeme
+ lex: կօտռէ
+ stem: կօտռէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: грубо, резко, по-хамски (разговаривать, прерывать на полуслове)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հաբըրնալէն
+ stem: հաբըրնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: гордясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: հագառագ
+ stem: հագառագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вопреки, наперекор, против
+ lemma_type: dialectal
+
+-lexeme
+ lex: հագըռգէլէն
+ stem: հագըռգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: набрасываясь на кого-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: հադ-հադ
+ stem: հադ-հադ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поштучно, по одному
+ lemma_type: dialectal
+
+-lexeme
+ lex: հադուգ
+ stem: հադուգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: особенно, именно
+ lemma_type: dialectal
+
+-lexeme
+ lex: հադռիջ-հադռիջ
+ stem: հադռիջ-հադռիջ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: очень чётко, отчётливо, разборчиво
+ lemma_type: dialectal
+
+-lexeme
+ lex: հազարնէրօվ
+ stem: հազարնէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тысячами
+ lemma_type: dialectal
+
+-lexeme
+ lex: հալավօվ
+ stem: հալավօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в одежде, одетым
+ lemma_type: dialectal
+
+-lexeme
+ lex: հալէքէթօվ
+ stem: հալէքէթօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шумно, суматошно
+ lemma_type: dialectal
+
+-lexeme
+ lex: հալէք-չէլէք
+ stem: հալէք-չէլէք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: суматошно, торопливо и беспорядочно (делать что-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հալխավարի
+ stem: հալխավարի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как принято, как заведено у людей
+ lemma_type: dialectal
+
+-lexeme
+ lex: հախընա
+ stem: հախընա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: cправедливо, по справедливости, по праву
+ lemma_type: dialectal
+
+-lexeme
+ lex: համան
+ stem: համան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немедленно, тотчас, тут же, сразу
+ lemma_type: dialectal
+
+-lexeme
+ lex: համփէրութինօվ
+ stem: համփէրութինօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: терпеливо
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայ-հայ
+ stem: հայ-հայ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот-вот, скоро, чуть-чуть
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայ-հաշան
+ stem: հայ-հաշան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с трудом, насилу
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայդա-բաբամ
+ stem: հայդա-բաբամ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стремглав, стремительно, поспешно
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայնագ
+ stem: հայնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-армянски
+ lemma_type: dialectal
+
+-lexeme
+ lex: հանթարա
+ stem: հանթարա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тихо, спокойно, безмятежно, мирно
+ lemma_type: dialectal
+
+-lexeme
+ lex: հասէլէթդէն
+ stem: հասէլէթդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: намеренно, умышленно, нарочно
+ lemma_type: dialectal
+
+-lexeme
+ lex: հավէսօվ
+ stem: հավէսօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: охотно, с удовольствием, с желанием
+ lemma_type: dialectal
+
+-lexeme
+ lex: հարամօսըն
+ stem: հարամօսըն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: едва ли, вряд ли
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէդէն
+ stem: հէդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: одновременно, в то же время, при этом
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէդէն-հէդէն
+ stem: հէդէն-հէդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: постепенно, мало-помалу
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէլբէթ
+ stem: հէլբէթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: конечно, разумеется, несомненно
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէլբէթօր
+ stem: հէլբէթօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как-нибудь
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէլէ
+ stem: հէլէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: только ,ещё, пока, пока что
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէղ
+ stem: հէղ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: раз
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէղու
+ stem: հէղու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: раз
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէռուգէգ
+ stem: հէռուգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: далековато, достаточно далеко
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէռույէն
+ stem: հէռույէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: издалека, издали
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէռույէն-հէռու
+ stem: հէռույէն-հէռու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: очень далеко
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէռուն
+ stem: հէռուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: далеко
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէռունալէն
+ stem: հէռունալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: удаляясь, отдаляясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէռվանցէ
+ stem: հէռվանցէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: издалека, издали
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէվալէն
+ stem: հէվալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пыхтя, отдуваясь, впопыхах
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէրունէրը
+ stem: հէրունէրը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в прошлые года
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէրսօդաձգէգ
+ stem: հէրսօդաձգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно возмущённо, негодующе (разговаривать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէրվանէ
+ stem: հէրվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с прошлого года, начиная с прошлого года
+ lemma_type: dialectal
+
+-lexeme
+ lex: հըռընգ-հըռընգ
+ stem: հըռընգ-հըռընգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в нетерпении
+ lemma_type: dialectal
+
+-lexeme
+ lex: հըռըշման
+ stem: հըռըշման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поспешно, опрометью, стремглав
+ lemma_type: dialectal
+
+-lexeme
+ lex: հինգէգ
+ stem: հինգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: староватый, достаточно старый, ветхий
+ lemma_type: dialectal
+
+-lexeme
+ lex: հինութ
+ stem: հինութ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: издревле, издавна
+ lemma_type: dialectal
+
+-lexeme
+ lex: հինութվանէ
+ stem: հինութվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: издревле, издавна, с давних пор
+ lemma_type: dialectal
+
+-lexeme
+ lex: հիչ
+ stem: հիչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ничего
+ lemma_type: dialectal
+
+-lexeme
+ lex: հուլիսին
+ stem: հուլիսին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в июле
+ lemma_type: dialectal
+
+-lexeme
+ lex: հում-հում
+ stem: հում-հում.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в сыром виде
+ lemma_type: dialectal
+
+-lexeme
+ lex: հունիսին
+ stem: հունիսին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в июне
+ lemma_type: dialectal
+
+-lexeme
+ lex: հուջումօվ
+ stem: հուջումօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с усилием (прыгать и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հուռ-հուռ
+ stem: հուռ-հուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: толпами (ходить, двигаться)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօդ
+ stem: հօդ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: там, в том месте
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօն
+ stem: հօն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: там, в том месте, в том краю
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօռօմնագ
+ stem: հօռօմնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-гречески
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօս
+ stem: հօս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: здесь
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօս-հօն
+ stem: հօս-հօն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: здесь и там, местами, туда-сюда
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօսէն-հօնէն
+ stem: հօսէն-հօնէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отовсюду, со всех сторон
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօվարդա-հօվարդա
+ stem: հօվարդա-հօվարդա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: праздно, без дела (гулять)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօվնալէն
+ stem: հօվնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дурнея, теряя привлекательность
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօվցընէլէն
+ stem: հօվցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обезображивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօրսուգու
+ stem: հօրսուգու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в полдень
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօքիյօվ
+ stem: հօքիյօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с душой, всей душой, вкладывая всю душу, вдохновенно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձաձգէլէն
+ stem: ձաձգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: накрывая, закрывая чем-либо сверху
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձամէլէն
+ stem: ձամէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жуя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձամօթք
+ stem: ձամօթք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жевательная резинка
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձարէձար
+ stem: ձարէձար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от корки до корки, от начала до конца
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձարէն
+ stem: ձարէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вначале, сначала
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձըմէռը
+ stem: ձըմէռը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: зимой, в зимний период
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձըմէռվանէ
+ stem: ձըմէռվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с зимы, начиная с зимы
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձըմէռօվ
+ stem: ձըմէռօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: зимой, в зимний период
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձունգէչօք
+ stem: ձունգէչօք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: преклонив колени, коленопреклонённо
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձուռ-ձուռ
+ stem: ձուռ-ձուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: косо
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձուռդի
+ stem: ձուռդի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: криво, косо, зигзагообразно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձուռդի-մուռդի
+ stem: ձուռդի-մուռդի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вкривь и вкось, зигзагообразно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձուռ-մուռ
+ stem: ձուռ-մուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вкривь и вкось
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձուռգէգ
+ stem: ձուռգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кривовато, достоточно криво
+ lemma_type: dialectal
+
+-lexeme
+ lex: մալխազ
+ stem: մալխազ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так или иначе, словом, несмотря на это, что бы то ни было
+ lemma_type: dialectal
+
+-lexeme
+ lex: մախլաս
+ stem: մախլաս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так или иначе
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաղէլէն
+ stem: մաղէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: просеивая, отсеивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: մամբէգէգ
+ stem: մամբէգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: слегка наивный, простодушный
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանդըռգէգ
+ stem: մանդըռգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мелковатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանդըռդէլէն
+ stem: մանդըռդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: размельчая, измельчая
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանդըռէլէն
+ stem: մանդըռէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: размельчая, измельчая, деля на куски
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանդըռցընէլէն
+ stem: մանդըռցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: размельчая, измельчая
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանէլէն
+ stem: մանէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прядя
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանէլու
+ stem: մանէլու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: (шерсть), которую следует прясть
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանի-մանի
+ stem: մանի-մանի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: быстро-быстро
+ lemma_type: dialectal
+
+-lexeme
+ lex: մանվէլէն
+ stem: մանվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прядясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշէլէն
+ stem: մաշէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: изнашивая, истрёпывая, истаптывая (одежду, обувь), затупляя (нож, пилу и т.п.), изводя, терзая, мучая
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշէցընէլէն
+ stem: մաշէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: изнашивая, истрёпывая, истаптывая (одежду, обувь)
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշթաբօյ
+ stem: մաշթաբօյ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ростом с человека
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշթագլօխ
+ stem: մաշթագլօխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подушно, из расчёта на каждую душу
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշթավարի
+ stem: մաշթավարի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-людски, доброжелательно, уважительно, как подобает
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշթավարութինօվ
+ stem: մաշթավարութինօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: гуманно, по-людски, доброжелательно, уважительно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշվէլէն
+ stem: մաշվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: изнашиваясь (о предметах)
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշտընալէն
+ stem: մաշտընալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выздоравливая, поправляясь после болезни
+ lemma_type: dialectal
+
+-lexeme
+ lex: մարէլէն
+ stem: մարէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: лишаясь сил (от голода)
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգդէղ
+ stem: մէգդէղ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вместе, соообща
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգդի
+ stem: մէգդի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в стороне, отдельно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգդօմ
+ stem: մէգդօմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немного, чуть-чуть
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգըզմէգի
+ stem: մէգըզմէգի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: друг другу, друг друга
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգէն
+ stem: մէգէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сразу
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգէնիմէգ
+ stem: մէգէնիմէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сразу, тотчас, внезапно, неожиданно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգէր
+ stem: մէգէր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неужели, разве, ли
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգչիմ
+ stem: մէգչիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немного, чуток
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգչիմէն
+ stem: մէգչիմէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: через некоторое время
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգուց
+ stem: մէգուց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тотчас, сразу
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէմալ
+ stem: մէմալ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ещё раз, больше
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէմէքադ
+ stem: մէմէքադ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по одному
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէմը
+ stem: մէմը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: раз, один раз, только, только раз
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէմնա
+ stem: մէմնա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ещё раз
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէմնէն
+ stem: մէմնէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разом, в один присест
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէյդանը
+ stem: մէյդանը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на виду у всех (находиться, лежать, стоять и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէչ
+ stem: մէչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внутри, внутрь
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէչէմէչ
+ stem: մէչէմէչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: между собой
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէչէն
+ stem: մէչէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: из, изнутри
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէս-մէնագ
+ stem: մէս-մէնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: совсем один, один-одинёшенек
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէքչիմ
+ stem: մէքչիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немного
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէքչիմէն
+ stem: մէքչիմէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: попозже, чуть погодя
+ lemma_type: dialectal
+
+-lexeme
+ lex: մըդմըդալէն
+ stem: մըդմըդալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: копаясь, неспешно занимаясь каким-либо делом
+ lemma_type: dialectal
+
+-lexeme
+ lex: մըթանը
+ stem: մըթանը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: затемно, в сумерках
+ lemma_type: dialectal
+
+-lexeme
+ lex: մըթլըխ
+ stem: մըթլըխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: непременно, безусловно, обязательно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մըշ-մըշ
+ stem: մըշ-մըշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: մի
+ stem: մի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разве, ли
+ lemma_type: dialectal
+
+-lexeme
+ lex: միայն
+ stem: միայն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: только, только лишь
+ lemma_type: dialectal
+
+-lexeme
+ lex: մինութին
+ stem: մինութին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сию минуту, тотчас, сразу, немедленно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մինութվան
+ stem: մինութվան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: минутный
+ lemma_type: dialectal
+
+-lexeme
+ lex: մինչի
+ stem: մինչի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пока, покуда
+ lemma_type: dialectal
+
+-lexeme
+ lex: միշտ
+ stem: միշտ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: всегда, постоянно
+ lemma_type: dialectal
+
+-lexeme
+ lex: միջէրէթ
+ stem: միջէրէթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: непременно, бесусловно, во что бы то ни стало
+ lemma_type: dialectal
+
+-lexeme
+ lex: միսօվ
+ stem: միսօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с мясом
+ lemma_type: dialectal
+
+-lexeme
+ lex: մութը-չըխին
+ stem: մութը-չըխին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на заре
+ lemma_type: dialectal
+
+-lexeme
+ lex: մութլախ
+ stem: մութլախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: непременно, обязательно, безусловно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մութօվ
+ stem: մութօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: затемно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մուխալէն
+ stem: մուխալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дымя, чадя, коптя
+ lemma_type: dialectal
+
+-lexeme
+ lex: մուխայէթօվ
+ stem: մուխայէթօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: осмотрительно, осторожно, с оглядкой
+ lemma_type: dialectal
+
+-lexeme
+ lex: մուհաբէթօվ
+ stem: մուհաբէթօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с любовью, дружно, согласованно
+ lemma_type: dialectal
+
+-lexeme
+ lex: մուշխուլ
+ stem: մուշխուլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: не в духе, не в настроении
+ lemma_type: dialectal
+
+-lexeme
+ lex: մուրօդէլէն
+ stem: մուրօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкаясь сажей, копотью
+ lemma_type: dialectal
+
+-lexeme
+ lex: մուրօդվէլէն
+ stem: մուրօդվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пачкаясь сажей, копотью
+ lemma_type: dialectal
+
+-lexeme
+ lex: մօդգընալէն
+ stem: մօդգընալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: приближаясь (о событии)
+ lemma_type: dialectal
+
+-lexeme
+ lex: մօդիգգէգ
+ stem: մօդիգգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно близко, с достаточно близкого расстояния
+ lemma_type: dialectal
+
+-lexeme
+ lex: մօդիգէն
+ stem: մօդիգէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вблизи, с близкого расстояния
+ lemma_type: dialectal
+
+-lexeme
+ lex: մօրէձունունթ
+ stem: մօրէձունունթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с рождения, со дня рождения
+ lemma_type: dialectal
+
+-lexeme
+ lex: յախ-յախի
+ stem: յախ-յախի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наперегонки (делать что-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: յայան
+ stem: յայան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пешком
+ lemma_type: dialectal
+
+-lexeme
+ lex: յայդախ
+ stem: յայդախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: без седла (садиться на коня)
+ lemma_type: dialectal
+
+-lexeme
+ lex: յանաշաս
+ stem: յանաշաս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рядом
+ lemma_type: dialectal
+
+-lexeme
+ lex: յանաշա-յանաշա
+ stem: յանաշա-յանաշա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бок о бок, рядом
+ lemma_type: dialectal
+
+-lexeme
+ lex: յանբաշ-յանբաշի
+ stem: յանբաշ-յանբաշի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бок о бок (схватка между соперниками в национальной борьбе «гурраш»)
+ lemma_type: dialectal
+
+-lexeme
+ lex: յանգուռ-յունգուռ
+ stem: յանգուռ-յունգուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: виляя из стороны в сторону со скрежетом и грохотом, крутясь восьмёркой (о колёсах телеги и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: յաշ-յաշ
+ stem: յաշ-յաշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в молодом возрасте, будучи молодым
+ lemma_type: dialectal
+
+-lexeme
+ lex: յափսարօվ
+ stem: յափսարօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: утрамбовавшийся, уплотнившийся (о стоге сена, соломы)
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէդ
+ stem: յէդ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: назад, обратно
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէթքը
+ stem: յէթքը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потом, затем
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէթքը-յէթքը
+ stem: յէթքը-յէթքը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в конце концов
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէնիդէն
+ stem: յէնիդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снова, опять, заново
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէփ
+ stem: յէփ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: когда
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէփէն-յէփ
+ stem: յէփէն-յէփ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с большим опозданием
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէփվան
+ stem: յէփվան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: форма родит
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէփվանէ
+ stem: յէփվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: давно, с давних пор
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէփօր
+ stem: յէփօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: когда
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէփօրդէն
+ stem: յէփօրդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вдруг, неожиданно
+ lemma_type: dialectal
+
+-lexeme
+ lex: յըխի
+ stem: յըխի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в затишке, в защищённом от ветра месте
+ lemma_type: dialectal
+
+-lexeme
+ lex: յօշտա
+ stem: յօշտա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: умышленно, нарочно, преднамеренно
+ lemma_type: dialectal
+
+-lexeme
+ lex: յօռօխօվ
+ stem: յօռօխօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: осторожно, осмотрительно, аккуратно
+ lemma_type: dialectal
+
+-lexeme
+ lex: նամուսօվ
+ stem: նամուսօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: честный, совестливый, добросовестный
+ lemma_type: dialectal
+
+-lexeme
+ lex: նայէլէն
+ stem: նայէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: смотря, глядя
+ lemma_type: dialectal
+
+-lexeme
+ lex: նայէլէն-նայէլէն
+ stem: նայէլէն-նայէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: присматриваясь к чему-либо, следя за чем-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: նայէլօվ
+ stem: նայէլօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в кредит (давать, продавать, покупать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: նավդալը
+ stem: նավդալը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неуверенно, нетвёрдо (идти)
+ lemma_type: dialectal
+
+-lexeme
+ lex: նաֆիլէ
+ stem: նաֆիլէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: напрасно, тщетно, зря
+ lemma_type: dialectal
+
+-lexeme
+ lex: նէ
+ stem: նէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: не…не, ни…, ни
+ lemma_type: dialectal
+
+-lexeme
+ lex: նէղգէգ
+ stem: նէղգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: узковатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: նէղի
+ stem: նէղի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: նէս
+ stem: նէս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внутрь, вовнутрь
+ lemma_type: dialectal
+
+-lexeme
+ lex: նէսէն
+ stem: նէսէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: изнутри
+ lemma_type: dialectal
+
+-lexeme
+ lex: նէսը
+ stem: նէսը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внутри
+ lemma_type: dialectal
+
+-lexeme
+ lex: նը
+ stem: նը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ведь, же
+ lemma_type: dialectal
+
+-lexeme
+ lex: նըխըզ
+ stem: նըխըզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: экономно, бережливо (расходовать, пользоваться чем-либо).	
+ lemma_type: dialectal
+
+-lexeme
+ lex: նըստըման
+ stem: նըստըման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сидя, в сидячем положении
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօմայգէգ
+ stem: նօմայգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно много, довольно много
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօմայցաձօվը
+ stem: նօմայցաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только увеличивается, увеличится и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօմայօվ
+ stem: նօմայօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: оптом
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօսըրգէգ
+ stem: նօսըրգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно тонкий
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօրգէգ
+ stem: նօրգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно новый
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօրդէն
+ stem: նօրդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снова, опять
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօրէն
+ stem: նօրէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вновь, снова, опять
+ lemma_type: dialectal
+
+-lexeme
+ lex: նօրէրըս
+ stem: նօրէրըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в последнее время, недавно, на днях
+ lemma_type: dialectal
+
+-lexeme
+ lex: շադ
+ stem: շադ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: много
+ lemma_type: dialectal
+
+-lexeme
+ lex: շադգէգ
+ stem: շադգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: многовато
+ lemma_type: dialectal
+
+-lexeme
+ lex: շաթուռ-շութուռ
+ stem: շաթուռ-շութուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с шумом, с треском (входить в дом и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: շախըռ-շախըռ
+ stem: շախըռ-շախըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание шуму (ливня и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: շախըռ-շուխուռ
+ stem: շախըռ-շուխուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание щёлканью, стуку, треску при ударе или трении предметов друг о друга
+ lemma_type: dialectal
+
+-lexeme
+ lex: շաջախ-բաջախ
+ stem: շաջախ-բաջախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: врастопырку, враскорячку (о ногах)
+ lemma_type: dialectal
+
+-lexeme
+ lex: շառ-շառ
+ stem: շառ-շառ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание журчанию воды
+ lemma_type: dialectal
+
+-lexeme
+ lex: շարունագ
+ stem: շարունագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: непрерывно, постоянно
+ lemma_type: dialectal
+
+-lexeme
+ lex: շարքօվ
+ stem: շարքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как положено, как следует, должным образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: շափաթնէրօվ
+ stem: շափաթնէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неделями (ждать, работать и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: շըդգէլէն
+ stem: շըդգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: правя, корректируя (текст)
+ lemma_type: dialectal
+
+-lexeme
+ lex: շընավօրցընէլէն
+ stem: շընավօրցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поздравляя
+ lemma_type: dialectal
+
+-lexeme
+ lex: շըռխէլէն
+ stem: շըռխէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: застывая, цепенея
+ lemma_type: dialectal
+
+-lexeme
+ lex: շըփէլէն
+ stem: շըփէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потирая
+ lemma_type: dialectal
+
+-lexeme
+ lex: շըփէլու
+ stem: շըփէլու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, что следует тереть
+ lemma_type: dialectal
+
+-lexeme
+ lex: շինը
+ stem: շինը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: теперь, сейчас
+ lemma_type: dialectal
+
+-lexeme
+ lex: շինըխվանէ
+ stem: շինըխվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отныне, впредь
+ lemma_type: dialectal
+
+-lexeme
+ lex: շինընգէրի
+ stem: շինընգէրի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отныне, c этого времени
+ lemma_type: dialectal
+
+-lexeme
+ lex: շուդ-շուդ
+ stem: շուդ-շուդ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часто
+ lemma_type: dialectal
+
+-lexeme
+ lex: շուդօվ
+ stem: շուդօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: скоро, в ближайшее время
+ lemma_type: dialectal
+
+-lexeme
+ lex: շուդգէգ
+ stem: շուդգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-быстрому, расторопно, проворно, резво
+ lemma_type: dialectal
+
+-lexeme
+ lex: շտէ
+ stem: շտէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: значит
+ lemma_type: dialectal
+
+-lexeme
+ lex: շփօթվէլէն
+ stem: շփօթվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ошибаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: շօշմաձօվը
+ stem: շօշմաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только увядает и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուդէլէն
+ stem: ուդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: едя, кушая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուդէցընէլէն
+ stem: ուդէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кормя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուզանալէն
+ stem: ուզանալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: охотно, с готовностью
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուզանամ-չուզանամ
+ stem: ուզանամ-չուզանամ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хочешь не хочешь, волей-неволей
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուժէ
+ stem: ուժէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: а как же, конечно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուժօվգէգ
+ stem: ուժօվգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно сильный
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուժօվնալէն
+ stem: ուժօվնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: набираясь сил, делаясь сильным
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուլէլէն
+ stem: ուլէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наливая, насыпая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուլում-հալնա
+ stem: ուլում-հալնա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: при смерти
+ lemma_type: dialectal
+
+-lexeme
+ lex: ունթունէլէն
+ stem: ունթունէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уважая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուշ
+ stem: ուշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: поздно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուշ-ուշ
+ stem: ուշ-ուշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: редко, нечасто
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուշանալէն
+ stem: ուշանալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: опаздывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուշացընէլէն
+ stem: ուշացընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: просрочивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուռալօվ
+ stem: ուռալօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с шумом, гамом, криком, галдежом (разговаривать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուռունա-սուռունա
+ stem: ուռունա-սուռունա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спотыкаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: չաթա-չաթ
+ stem: չաթա-չաթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прямо, без обиняков, невзирая на лица (говорить, спорить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չաթըռ-չաթըռ
+ stem: չաթըռ-չաթըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание треску, хрусту, выстрелу
+ lemma_type: dialectal
+
+-lexeme
+ lex: չաթռա-փաթռա
+ stem: չաթռա-փաթռա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: через пень колоду, кое-как, небрежно, криво, косо
+ lemma_type: dialectal
+
+-lexeme
+ lex: չալէլէն
+ stem: չալէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: играя (на музык. инструменте)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չալթ
+ stem: չալթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: быстро, проворно, расторопно
+ lemma_type: dialectal
+
+-lexeme
+ lex: չալթգէգ
+ stem: չալթգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: быстро, проворно, расторопно
+ lemma_type: dialectal
+
+-lexeme
+ lex: չալթ-չալթ
+ stem: չալթ-չալթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бойко, живо, резво, быстро, оживлённо
+ lemma_type: dialectal
+
+-lexeme
+ lex: չալվաձսային
+ stem: չալվաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (мелодия) исполняется, исполнялась, будет исполняться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: չալվաձօվը
+ stem: չալվաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только (мелодия) исполняется, исполнялась, будет исполняться и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: չալվէլէն
+ stem: չալվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: исполняясь, играясь (о музыке)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չարչըգէլէն
+ stem: չարչըգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мучая, терзая
+ lemma_type: dialectal
+
+-lexeme
+ lex: չարչըգվէլէն
+ stem: չարչըգվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мучаясь, терзаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: չարչըգվէցընէլէն
+ stem: չարչըգվէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мучая, терзая
+ lemma_type: dialectal
+
+-lexeme
+ lex: չափէլէն
+ stem: չափէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: измеряя
+ lemma_type: dialectal
+
+-lexeme
+ lex: չափվէլէն
+ stem: չափվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: измеряясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: չափվէլու
+ stem: չափվէլու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, что следует измерить
+ lemma_type: dialectal
+
+-lexeme
+ lex: չափօվ
+ stem: չափօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: соразмерно чему-либо, в соответствии с какой-либо мерой
+ lemma_type: dialectal
+
+-lexeme
+ lex: չէ
+ stem: չէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: не
+ lemma_type: dialectal
+
+-lexeme
+ lex: չէքիլթէ
+ stem: չէքիլթէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: не только
+ lemma_type: dialectal
+
+-lexeme
+ lex: չըթըռ-չըթըռ
+ stem: չըթըռ-չըթըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание треску горящих дров, ломающихся веток, сыпающегося града и т.п.
+ lemma_type: dialectal
+
+-lexeme
+ lex: չըռըլ-չըռըլ
+ stem: չըռըլ-չըռըլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание звуку жарки продуктов на масле
+ lemma_type: dialectal
+
+-lexeme
+ lex: չըստ
+ stem: չըստ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: быстро
+ lemma_type: dialectal
+
+-lexeme
+ lex: չիլա-չիլա
+ stem: չիլա-չիլա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мотками, клубками
+ lemma_type: dialectal
+
+-lexeme
+ lex: չիրախվառունք
+ stem: չիրախվառունք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вечерние сумерки, время зажигания лампады (в старину)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չուլէ
+ stem: չուլէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: без интереса, не на деньги (играть в карты, в кости)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօխտան
+ stem: չօխտան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: давно
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօխտըվանէ
+ stem: չօխտըվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: издавна, с давних пор
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօր-չօր
+ stem: չօր-չօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: всухомятку (принимать пищу)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօրգէգ
+ stem: չօրգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: суховатый, довольно сухой
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօրէլէն
+ stem: չօրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отбивая охоту, желание делать что-либо, умеряя чей-либо порыв, отговаривая от каких-либо действий
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօրնալէն
+ stem: չօրնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: высыхая
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօք-չօք
+ stem: չօք-չօք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: коленопреклонённо
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջամալնագ
+ stem: ջամալնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: нагло, бесстыже, непристойно, неприлично, неподобающе (вести себя)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջամալնագգէգ
+ stem: ջամալնագգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: слегка нагло, бесстыже, непристойно, неподобающе (вести себя)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջամփօրթէլէն
+ stem: ջամփօրթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: путешествуя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջանգէլէն
+ stem: ջանգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: царапая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջանգըռթվէլէն
+ stem: ջանգըռթվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: царапаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջանդան
+ stem: ջանդան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с аппетитом, с удовольствием (есть)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջէլօվ
+ stem: ջէլօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рысью (бежать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջէմը
+ stem: ջէմը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: весь, целый
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջէնէբուն
+ stem: ջէնէբուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջըստ-ջըստ
+ stem: ջըստ-ջըստ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание хлюпанью мокрой от воды обуви при ходьбе
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջուհուդնագ
+ stem: ջուհուդնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по-еврейски
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջուֆթ-ջուֆթ
+ stem: ջուֆթ-ջուֆթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: парами, попарно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջուֆթէլէմէ
+ stem: ջուֆթէլէմէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: парами, попарно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջօգ-ջօգ
+ stem: ջօգ-ջօգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отдельно, врозь, порознь, поодиночке, по одному, по отдельности
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջօրօվ
+ stem: ջօրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с трудом, еле-еле, насилу
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաբէս
+ stem: սաբէս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так, таким образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: սալթ
+ stem: սալթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: только, лишь
+ lemma_type: dialectal
+
+-lexeme
+ lex: սալթուր-սուլթուր
+ stem: սալթուր-սուլթուր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: покачиваясь (ходить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սալխընգէգ
+ stem: սալխընգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно прохладный
+ lemma_type: dialectal
+
+-lexeme
+ lex: սախըն
+ stem: սախըն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ни в коем случае, не дай бог, боже упаси
+ lemma_type: dialectal
+
+-lexeme
+ lex: սախթգէգ
+ stem: սախթգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно осторожно, осмотрительно, бдительно
+ lemma_type: dialectal
+
+-lexeme
+ lex: սահաթնէրօվ
+ stem: սահաթնէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часами
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաղ-սաղ
+ stem: սաղ-սաղ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: целиком, полностью
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաղ-սէլամէթ
+ stem: սաղ-սէլամէթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жив-здоров, в добром здравии, цел и невредим
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաղը
+ stem: սաղը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: все
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաղի
+ stem: սաղի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: направо
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաղին-սօլին
+ stem: սաղին-սօլին.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неэкономно, налево-направо (расходовать, распределять и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սայգէգ
+ stem: սայգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно мелкий, мелководный (о речке и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սանքի
+ stem: սանքի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как будто, якобы
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաշինը
+ stem: սաշինը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сейчас
+ lemma_type: dialectal
+
+-lexeme
+ lex: սաստէլէն
+ stem: սաստէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: устрашая, запугивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: սարմախօվ
+ stem: սարմախօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с размаху (метать камень и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սէմթսըզ
+ stem: սէմթսըզ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неудобный (о месте и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սէրօվ
+ stem: սէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в дружбе, в согласии
+ lemma_type: dialectal
+
+-lexeme
+ lex: սէֆայօվ
+ stem: սէֆայօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с удовольствием, с радостью, с желанием, с охотой
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըդըռղի
+ stem: սըդըռղի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немедленно, безотлагательно
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըխ-սըխ
+ stem: սըխ-սըխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часто, густо
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըրա-սըրա
+ stem: սըրա-սըրա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: рядами, по порядку (уложенный, расставленный, посаженный и т.д.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըրայօվ
+ stem: սըրայօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по очереди
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըրէլէն
+ stem: սըրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: точа, затачивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: սիրաք-սիրաք
+ stem: սիրաք-սիրաք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: редко, нечасто
+ lemma_type: dialectal
+
+-lexeme
+ lex: սիրդանց
+ stem: սիրդանց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: искренне, от всего сердца
+ lemma_type: dialectal
+
+-lexeme
+ lex: սիֆթէ
+ stem: սիֆթէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вначале, сначала
+ lemma_type: dialectal
+
+-lexeme
+ lex: սիֆթէ-մէգութ
+ stem: սիֆթէ-մէգութ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сначала, с первого раза (не узнал, не признал, не заметил и т.д.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սյուրյու-սյուրյու
+ stem: սյուրյու-սյուրյու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: толпами, группами, стадами
+ lemma_type: dialectal
+
+-lexeme
+ lex: սյօզդէ
+ stem: սյօզդէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как будто, в общем-то, в принципе
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուդ-մուդ
+ stem: սուդ-մուդ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кое-как, с грехом пополам
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուդմուդէն
+ stem: սուդմուդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: фальшиво, притворно, ложно
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուլուլալէն
+ stem: սուլուլալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: свистя, насвистывая, посвистывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուլօվ
+ stem: սուլօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: осторожно, незаметно
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուս
+ stem: սուս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: молча
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուս-փուս
+ stem: սուս-փուս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: молчаливо, тихо, безмолвно, втихомолку
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուսէն-փուսէն
+ stem: սուսէն-փուսէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тайком, украдкой, втихомолку
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուտէկի
+ stem: սուտէկի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вначале, сначала
+ lemma_type: dialectal
+
+-lexeme
+ lex: սուրէք-սուրէք
+ stem: սուրէք-սուրէք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: волоча по земле (нести, тащить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սպանէլէն
+ stem: սպանէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: убивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: սպասէլէն
+ stem: սպասէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ожидая
+ lemma_type: dialectal
+
+-lexeme
+ lex: ստըգէլէն
+ stem: ստըգէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: луща, очищая от кожуры, скорлупы
+ lemma_type: dialectal
+
+-lexeme
+ lex: սօլի
+ stem: սօլի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: налево
+ lemma_type: dialectal
+
+-lexeme
+ lex: սօրվէցընէլէն
+ stem: սօրվէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: обучая
+ lemma_type: dialectal
+
+-lexeme
+ lex: վադէլէն
+ stem: վադէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: худея
+ lemma_type: dialectal
+
+-lexeme
+ lex: վադէցընէլէն
+ stem: վադէցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: доводя до худобы
+ lemma_type: dialectal
+
+-lexeme
+ lex: վազէլէն
+ stem: վազէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бегая
+ lemma_type: dialectal
+
+-lexeme
+ lex: վախէնալէն
+ stem: վախէնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: боясь, пугаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: վաղը
+ stem: վաղը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: завтра
+ lemma_type: dialectal
+
+-lexeme
+ lex: վաղվանէ
+ stem: վաղվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с завтрашнего дня
+ lemma_type: dialectal
+
+-lexeme
+ lex: վար
+ stem: վար.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вниз
+ lemma_type: dialectal
+
+-lexeme
+ lex: վարբէդգէգ
+ stem: վարբէդգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно ловкий, проворный, умелый, хитроумный
+ lemma_type: dialectal
+
+-lexeme
+ lex: վարբէդօրէն
+ stem: վարբէդօրէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ловко, проворно, умело
+ lemma_type: dialectal
+
+-lexeme
+ lex: վարէն
+ stem: վարէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снизу
+ lemma_type: dialectal
+
+-lexeme
+ lex: վարէրէն
+ stem: վարէրէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: откуда-то снизу
+ lemma_type: dialectal
+
+-lexeme
+ lex: վարը
+ stem: վարը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внизу
+ lemma_type: dialectal
+
+-lexeme
+ lex: վարէրը
+ stem: վարէրը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: где-то внизу
+ lemma_type: dialectal
+
+-lexeme
+ lex: վարիսէ
+ stem: վարիսէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: предположим, что, допустим, что
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէր
+ stem: վէր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: верх, вверх, наверх
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրգէգ
+ stem: վէրգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: высоковато, достаточно высоко
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրէն
+ stem: վէրէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сверху
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրէսիյա
+ stem: վէրէսիյա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в кредит, в долг
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրը
+ stem: վէրը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наверху, вверху
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրչադէն
+ stem: վէրչադէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потом, позже
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրչէն
+ stem: վէրչէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потом, позже
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրչը
+ stem: վէրչը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потом, затем, позже.	
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրչէրըս
+ stem: վէրչէրըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в последнее время
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէրչը-վէրչը
+ stem: վէրչը-վէրչը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в конце концов, наконец
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէց-վէց
+ stem: վէց-վէց.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по шести
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըդէխ
+ stem: վըդէխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: где, куда
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըդէխէն
+ stem: վըդէխէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: откуда
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըդէխէն-վըդէխ
+ stem: վըդէխէն-վըդէխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: откуда-то
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըզըռ-վըզըռ
+ stem: վըզըռ-վըզըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: живо, проворно, быстро (работать, писать и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըժվըժալէն
+ stem: վըժվըժալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чешась, зудя
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըրա-վըրա
+ stem: վըրա-վըրա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: складывая, суммируя, прибавляя
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըրա-գուլխու
+ stem: վըրա-գուլխու.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немедленно, тотчас, незамедлительно
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըրայէն
+ stem: վըրայէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с виду, на вид, судя по внешнему виду
+ lemma_type: dialectal
+
+-lexeme
+ lex: վիրա
+ stem: վիրա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беспрерывно, беспрестанно, постоянно, то и дело, часто
+ lemma_type: dialectal
+
+-lexeme
+ lex: վիրա-վիրա
+ stem: վիրա-վիրա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часто
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօթէլէն
+ stem: վօթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выливая
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօթաձսային
+ stem: վօթաձսային.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) выливается (высыпается) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօթվէլէն
+ stem: վօթվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неся большие расходы
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօթվըթէլէն
+ stem: վօթվըթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: расплёскивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօթքօվ
+ stem: վօթքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пешком
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօխչ-առօխչ
+ stem: վօխչ-առօխչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жив-здоров, цел и невредим
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօռէն-գըլօխէն
+ stem: վօռէն-գըլօխէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бессвязно, бестолково, необдуманно, нерассудительно (говорить, рассказывать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօռէքաշ
+ stem: վօռէքաշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ползком на заднице (передвигаться) (о маленьких детях или инвалидах, лишённых ног)
+ lemma_type: dialectal
+
+-lexeme
+ lex: տախըլ
+ stem: տախըլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: терпимо, сносно, чуть лучше (в сравнении с чем-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: տըրմաստան
+ stem: տըրմաստան.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: часто, нередко
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցաձման
+ stem: ցաձման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: низко, невысоко
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցաձմանը
+ stem: ցաձմանը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: внизу
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցաձնալէն
+ stem: ցաձնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снижаясь, опускаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցավէլէն
+ stem: ցավէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: болея, ноя, щемя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցըմբացըփ
+ stem: ցըմբացըփ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: полным-полно, наполнено до краёв
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցուրդգէգ
+ stem: ցուրդգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: холодновато, достаточно холодно
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցօրէգը
+ stem: ցօրէգը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: днём, в дневное время
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցօրէգվանէ
+ stem: ցօրէգվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с полудня
+ lemma_type: dialectal
+
+-lexeme
+ lex: ցօրէգօվ
+ stem: ցօրէգօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: днём, в дневное время, в светлое время дня
+ lemma_type: dialectal
+
+-lexeme
+ lex: փագէլէն
+ stem: փագէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: закрывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: փագվէլէն
+ stem: փագվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: закрываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաթա-քութա
+ stem: փաթա-քութա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в спешке, второпях
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաթառա-փաթառա
+ stem: փաթառա-փաթառա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в спешке,  второпях, по быстрому (делать что-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաթըռ-փաթըռ
+ stem: փաթըռ-փաթըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с шумом, с топотом (бежать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաթըռ-քյություռ
+ stem: փաթըռ-քյություռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вдруг, внезапно, нежданно-негаданно, врасплох
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաթթէլէն
+ stem: փաթթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мотая, наматывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաթթըվէլէն
+ stem: փաթթըվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наматываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաթլախ
+ stem: փաթլախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: навыкате (о глазах)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փախչէլէն
+ stem: փախչէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: убегая
+ lemma_type: dialectal
+
+-lexeme
+ lex: փայնագ
+ stem: փայնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: один
+ lemma_type: dialectal
+
+-lexeme
+ lex: փառթիյօվ
+ stem: փառթիյօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: толпой, гурьбой, хором
+ lemma_type: dialectal
+
+-lexeme
+ lex: փասթըռ-փուսթուռ
+ stem: փասթըռ-փուսթուռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: волоча ноги (ходить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փասլօդէլէն
+ stem: փասլօդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ржавея
+ lemma_type: dialectal
+
+-lexeme
+ lex: փաքուդը
+ stem: փաքուդը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пока, покуда, покудова
+ lemma_type: dialectal
+
+-lexeme
+ lex: փէդէլէն
+ stem: փէդէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: срывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: փէդվէլէն
+ stem: փէդվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вырываясь, выдёргиваясь, выщипываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: փէշ-փէշթըմալօվ
+ stem: փէշ-փէշթըմալօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: щедро, вдоволь, вдосталь, в большом количестве (одаривать кого-либо щедрыми подарками)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փէռադնալէն
+ stem: փէռադնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ухудшаясь, портясь (о погоде, продуктах питания)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փէքի
+ stem: փէքի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: прекрасно, очень хорошо
+ lemma_type: dialectal
+
+-lexeme
+ lex: փըթթէլէն
+ stem: փըթթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: гния
+ lemma_type: dialectal
+
+-lexeme
+ lex: փըխըռ-փըխըռ
+ stem: փըխըռ-փըխըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: подражание звуку кипения воды
+ lemma_type: dialectal
+
+-lexeme
+ lex: փընդըռէլէն
+ stem: փընդըռէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ища, разыскиивая
+ lemma_type: dialectal
+
+-lexeme
+ lex: փըչէլէն
+ stem: փըչէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дуя, надувая
+ lemma_type: dialectal
+
+-lexeme
+ lex: փըռըլ-փըռըլ
+ stem: փըռըլ-փըռըլ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: развеваясь на ветру (о подоле одежды при ходьбе)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փըռչօլնագ
+ stem: փըռչօլնագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неопрятно, неряшливо, нечистоплотно
+ lemma_type: dialectal
+
+-lexeme
+ lex: փիթուն
+ stem: փիթուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: весь, целый, полный
+ lemma_type: dialectal
+
+-lexeme
+ lex: փիյազօվ
+ stem: փիյազօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с уговорами, с увещеваниями (убеждать)
+ lemma_type: dialectal
+
+-lexeme
+ lex: փիս-փիթյուն
+ stem: փիս-փիթյուն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: весь, целиком, полностью
+ lemma_type: dialectal
+
+-lexeme
+ lex: փօխ
+ stem: փօխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: взаймы, в долг
+ lemma_type: dialectal
+
+-lexeme
+ lex: փօխանագ
+ stem: փօխանագ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вместо, взамен
+ lemma_type: dialectal
+
+-lexeme
+ lex: փօխ-փօխ
+ stem: փօխ-փօխ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по очереди, поочерёдно, попеременно
+ lemma_type: dialectal
+
+-lexeme
+ lex: փօրէքաշ
+ stem: փօրէքաշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ползком, по-пластунски
+ lemma_type: dialectal
+
+-lexeme
+ lex: փօրցէլէն
+ stem: փօրցէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пробуя, испытывая
+ lemma_type: dialectal
+
+-lexeme
+ lex: փօքըրցաձօվը
+ stem: փօքըրցաձօվը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только уменьшается, уменьшился и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: քաբէջընա
+ stem: քաբէջընա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: (отелиться) не достигнув двух лет, т.е. раньше положенного для отёла возраста (о корове)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քագէլէն
+ stem: քագէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: развязывая, расстёгивая, откручивая (гайку и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քագըռթէլէն
+ stem: քագըռթէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: распуская (узел, шов и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քագվէլէն
+ stem: քագվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: отвязываясь, развязываясь, откручиваясь (о гайке и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քալէլէն
+ stem: քալէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шагая
+ lemma_type: dialectal
+
+-lexeme
+ lex: քալցընէլէն
+ stem: քալցընէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: водя, направляя движение (лошади и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քախցաձգէգ
+ stem: քախցաձգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достаточно голодный, слегка голодный
+ lemma_type: dialectal
+
+-lexeme
+ lex: քաղաքավարի
+ stem: քաղաքավարի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: галантно, вежливо, учтиво (говорить), культурно (принимать пищу и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քամաձսայիս
+ stem: քամաձսայիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) выжимаю, цежу, изматываю и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: քամաձօվըս
+ stem: քամաձօվըս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как только выжимаю, цежу, изматываю и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: քանահադ
+ stem: քանահադ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: несколько, некоторое количество чего-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: քաշ-քաշ
+ stem: քաշ-քաշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: волоком (тащить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քաշբադառ
+ stem: քաշբադառ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: насильно, против воли
+ lemma_type: dialectal
+
+-lexeme
+ lex: քաշէլէն
+ stem: քաշէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: передвигая волоком и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: քաշէլէն-քաշքըշէլէն
+ stem: քաշէլէն-քաշքըշէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: еле-еле, с трудом
+ lemma_type: dialectal
+
+-lexeme
+ lex: քաշվէլէն
+ stem: քաշվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наречие глагола «кhашвэл» во всех значениях
+ lemma_type: dialectal
+
+-lexeme
+ lex: քացառա-քուցառա
+ stem: քացառա-քուցառա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с большим трудом, со скрипом, со скрежетом
+ lemma_type: dialectal
+
+-lexeme
+ lex: քացխէլէն
+ stem: քացխէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: закисая, прокисая
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէնարէն
+ stem: քէնարէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от края
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէնարը
+ stem: քէնարը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на краю
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէշ-աղէգ
+ stem: քէշ-աղէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хорошо ли, плохо ли, как-нибудь
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէշ-քէշ
+ stem: քէշ-քէշ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: враждебно, недружелюбно (смотреть, говорить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէշքէ
+ stem: քէշքէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: лучше бы, уж лучше бы, хоть бы
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէսէք-քէսէք
+ stem: քէսէք-քէսէք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стадами, гуртами
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէսէքօվ
+ stem: քէսէքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стадами, гуртами
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէստռա
+ stem: քէստռա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: напрямик, кратчайшим путём (идти)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէստռա-բօյօք
+ stem: քէստռա-բօյօք.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: беспорядочно, хаотично, непоследовательно, как попало (говорить, рассказывать, пахать землю и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէրվէլէն
+ stem: քէրվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: соскабливаясь, соскрёбываясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէֆլը
+ stem: քէֆլը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: навеселе, под хмельком, в хорошем расположении духа
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէֆօվ
+ stem: քէֆօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с удовольствием, в приподнятом настроении (работать и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըշէրը
+ stem: քըշէրը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вечером
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըշէր-ցօրէգ
+ stem: քըշէր-ցօրէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: денно и нощно, круглые сутки
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըշէրվանէ
+ stem: քըշէրվանէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с вечера (готовиться к чему-либо, отправляться в путь и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըշէրօվ
+ stem: քըշէրօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ночью, в ночное время
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըռմա-քըռ
+ stem: քըռմա-քըռ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: полным полно, немерено
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըսթ-քըսթ
+ stem: քըսթ-քըսթ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шаркая ногами (брести, плестись, волочиться, медленно ходить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըրքըրէլէն
+ stem: քըրքըրէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вороша, разгребая
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչ
+ stem: քիչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мало
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչ-միչ
+ stem: քիչ-միչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немножко, чуть-чуть
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչ-շադ
+ stem: քիչ-շադ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ни много, ни мало, ни шатко, ни валко, ни хорошо, ни плохо, так себе
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչ-քիչ
+ stem: քիչ-քիչ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немножко, чуть-чуть
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչգէգ
+ stem: քիչգէգ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: довольно мало
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչէն
+ stem: քիչէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: самое малое, по меньшей мере, минимально
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչիմ
+ stem: քիչիմ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: немножко, чуть-чуть, чуток
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչնալէն
+ stem: քիչնալէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: уменьшаясь, убавляясь, сокращаясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիչցուցաձսայիս
+ stem: քիչցուցաձսայիս.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по мере того как (чем больше) уменьшаю (сокращаю) и т.д.
+ lemma_type: dialectal
+
+-lexeme
+ lex: քիվջա
+ stem: քիվջա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в сторонке, в некотором отдалении от кого-либо, чего-либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: քուլթա-քուլթա
+ stem: քուլթա-քուլթա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: снопами (вязать, возить и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քունթաթախ
+ stem: քունթաթախ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: спросонья
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօլէմօվ
+ stem: քօլէմօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по всей окружности (отрываться, о лепестках цветов), (отслаиваться, о приклеенной бумаге)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօռ-հարփաձ
+ stem: քօռ-հարփաձ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пьяный в стельку
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօռ-տօպալ
+ stem: քօռ-տօպալ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вслепую, на ощупь, наобум, наугад (делать что-либо)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօռ-քօռընա
+ stem: քօռ-քօռընա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вслепую, наугад
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօռլէմէնդէն
+ stem: քօռլէմէնդէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неожиданно, внезапно
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօռէն-բադարաքէն
+ stem: քօռէն-բադարաքէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с горем пополам, еле-еле, с трудом
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօսէլէ
+ stem: քօսէլէ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кожаный шнурок для завязывания чарыков
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօվէքօվ
+ stem: քօվէքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: бок о бок, рядом
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօվի
+ stem: քօվի.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в стороне, в сторонке
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօվինա
+ stem: քօվինա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: окольным путём
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօքօվ
+ stem: քօքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с корнем
+ lemma_type: dialectal
+
+-lexeme
+ lex: օլա-օլա
+ stem: օլա-օլա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: самое большее
+ lemma_type: dialectal
+
+-lexeme
+ lex: օլդըրման
+ stem: օլդըրման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: в перевёрнутом виде
+ lemma_type: dialectal
+
+-lexeme
+ lex: օլդըրվէլէն
+ stem: օլդըրվէլէն.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: закручиваясь, скручиваясь
+ lemma_type: dialectal
+
+-lexeme
+ lex: օշթալամա
+ stem: օշթալամա.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: посередине, в середине (поставленный, находящийся и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: օշթալըխը
+ stem: օշթալըխը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: посередине, в центре
+ lemma_type: dialectal
+
+-lexeme
+ lex: օշթախլը
+ stem: օշթախլը.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вместе, совместно, на равных началах (открывать, создавать собственное дело и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: օպատօվ
+ stem: օպատօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кучей, горкой
+ lemma_type: dialectal
+
+-lexeme
+ lex: օրէնքօվ
+ stem: օրէնքօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по закону, согласно закону
+ lemma_type: dialectal
+
+-lexeme
+ lex: օրինավօր
+ stem: օրինավօր.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: должным образом, как положено
+ lemma_type: dialectal
+
+-lexeme
+ lex: օրմօվ
+ stem: օրմօվ.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: когда нибудь, хотя бы раз, хоть раз
+ lemma_type: dialectal
+
+-lexeme
+ lex: ֆայման
+ stem: ֆայման.
+ gramm: ADV
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вроде, как, наподобие, подобно кому-либо или чему-либо
+ lemma_type: dialectal
+

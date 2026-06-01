@@ -1,0 +1,3030 @@
+﻿-lexeme
+ lex: ա
+ stem: ա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: даже, даже если
+ lemma_type: dialectal
+
+-lexeme
+ lex: աբրիս
+ stem: աբրիս.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: браво!, молодец!, живи долго и процветай!
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադ
+ stem: ադ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тот, та, то, те
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադամ
+ stem: ադամ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: господь с тобой!
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադգից
+ stem: ադգից.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с того времени
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադիգը
+ stem: ադիգը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, та, то, тот
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադիվիգը
+ stem: ադիվիգը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, тот
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադիվօրը
+ stem: ադիվօրը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: его, её, их
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադիվօրինը
+ stem: ադիվօրինը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: его, её, их
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադքանագան
+ stem: ադքանագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько-то, по столько-то
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադօնց
+ stem: ադօնց.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: их
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադօնցմէն
+ stem: ադօնցմէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от них
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադօնք
+ stem: ադօնք.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: те
+ lemma_type: dialectal
+
+-lexeme
+ lex: ադօր
+ stem: ադօր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: его, её
+ lemma_type: dialectal
+
+-lexeme
+ lex: ալ
+ stem: ալ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тоже, также
+ lemma_type: dialectal
+
+-lexeme
+ lex: ախ
+ stem: ախ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ах! ох!, возглас удивления, сожаления, печали, тоски, страха, восхищения, страстного желания
+ lemma_type: dialectal
+
+-lexeme
+ lex: ախըռ
+ stem: ախըռ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ведь, же
+ lemma_type: dialectal
+
+-lexeme
+ lex: ահ
+ stem: ահ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ах! эх!, выражает различные эмоции
+ lemma_type: dialectal
+
+-lexeme
+ lex: աղու
+ stem: աղու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: агу, лепет младенца
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամա
+ stem: ամա.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: но, только, однако, же
+ lemma_type: dialectal
+
+-lexeme
+ lex: աման
+ stem: աման.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ох!, ах!, помогите!, на помощь!
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամմէն
+ stem: ամմէն.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: аминь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ամօթ
+ stem: ամօթ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: позор!, стыд и срам!
+ lemma_type: dialectal
+
+-lexeme
+ lex: ան
+ stem: ան.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тот, та, то
+ lemma_type: dialectal
+
+-lexeme
+ lex: անիսէ
+ stem: անիսէ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: между тем, в то время как
+ lemma_type: dialectal
+
+-lexeme
+ lex: անիվիգը
+ stem: անիվիգը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тот, та, то
+ lemma_type: dialectal
+
+-lexeme
+ lex: անիվօրը
+ stem: անիվօրը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: անուշնէր
+ stem: անուշնէր.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: добрые пожелания парикмахеров Нор-Наахичевана своим клиентам после бритья
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքան
+ stem: անքան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, настолько, так
+ lemma_type: dialectal
+
+-lexeme
+ lex: անքանագան
+ stem: անքանագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько, по столько-то (каждый, каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: անօնց
+ stem: անօնց.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: их
+ lemma_type: dialectal
+
+-lexeme
+ lex: անօնցմէն
+ stem: անօնցմէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от (с, из) них
+ lemma_type: dialectal
+
+-lexeme
+ lex: անօնք
+ stem: անօնք.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: те
+ lemma_type: dialectal
+
+-lexeme
+ lex: անօր
+ stem: անօր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: того, тому
+ lemma_type: dialectal
+
+-lexeme
+ lex: առանց
+ stem: առանց.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: без
+ lemma_type: dialectal
+
+-lexeme
+ lex: առչի
+ stem: առչի.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: первый
+ lemma_type: dialectal
+
+-lexeme
+ lex: առչինը
+ stem: առչինը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: первый
+ lemma_type: dialectal
+
+-lexeme
+ lex: առօխչութին
+ stem: առօխչութին.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: будьте здоровы! (добрые пожелания чихнувшему)
+ lemma_type: dialectal
+
+-lexeme
+ lex: աս
+ stem: աս.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этот, эта, это, эти
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասիվիգը
+ stem: ասիվիգը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этот, эта, это
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասիվօրը
+ stem: ասիվօրը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этого, этой
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասիվօրինը
+ stem: ասիվօրինը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этого, этой
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասքան
+ stem: ասքան.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: столько
+ lemma_type: dialectal
+
+-lexeme
+ lex: ասօր
+ stem: ասօր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этого, этой
+ lemma_type: dialectal
+
+-lexeme
+ lex: արավ-չարավ
+ stem: արավ-չարավ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: таки, и всё-таки, всё же, и всё же, однако же
+ lemma_type: dialectal
+
+-lexeme
+ lex: արթյօք
+ stem: արթյօք.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: разве, ли
+ lemma_type: dialectal
+
+-lexeme
+ lex: աֆէրիմ
+ stem: աֆէրիմ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: молодец, браво
+ lemma_type: dialectal
+
+-lexeme
+ lex: բայց
+ stem: բայց.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: но, однако
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարէ
+ stem: բարէ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хоть, хоть бы, хотя бы, уж лучше бы
+ lemma_type: dialectal
+
+-lexeme
+ lex: բարէվ
+ stem: բարէվ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: здравствуй!, привет!
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէս
+ stem: բէս.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вроде, наподобие, такой же, как, подобно, так же
+ lemma_type: dialectal
+
+-lexeme
+ lex: բէրէլու
+ stem: բէրէլու.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, что нужно или можно принести, доставить
+ lemma_type: dialectal
+
+-lexeme
+ lex: բըստ
+ stem: բըստ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шуточное пожелание промаха сопернику (в игре в бабки, мяч и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: բիդի
+ stem: բիդի.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: բիլէ
+ stem: բիլէ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: даже
+ lemma_type: dialectal
+
+-lexeme
+ lex: բիրգէմ
+ stem: բիրգէմ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: даже
+ lemma_type: dialectal
+
+-lexeme
+ lex: գամ
+ stem: գամ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: или, либо, или же
+ lemma_type: dialectal
+
+-lexeme
+ lex: գէնթանութին
+ stem: գէնթանութին.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: здравица, добрые пожелания, предшествующие винопитию во время застолья
+ lemma_type: dialectal
+
+-lexeme
+ lex: գը
+ stem: գը.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: գըլա
+ stem: գըլա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хватит, довольно, перестань, перестаньте, не хочу больше слушать
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօյա
+ stem: գօյա.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: будто, будто бы, якобы, как будто, вроде
+ lemma_type: dialectal
+
+-lexeme
+ lex: գօքթէ
+ stem: գօքթէ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хватит, довольно, достаточно
+ lemma_type: dialectal
+
+-lexeme
+ lex: դա
+ stem: դա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тот, та (о человеке, как правило, в уничижительном значении)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասը
+ stem: դասը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: десять, десятка
+ lemma_type: dialectal
+
+-lexeme
+ lex: դաս-դասը
+ stem: դաս-դասը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по десять (каждый, каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըմէգ
+ stem: դասնըմէգ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: одиннадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըմէգագան
+ stem: դասնըմէգագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по одиннадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըմէգում
+ stem: դասնըմէգում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: одиннадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըմէգնօց
+ stem: դասնըմէգնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий одиннадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնէրգու
+ stem: դասնէրգու.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: двенадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնէրգուսում
+ stem: դասնէրգուսում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: двенадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնէրգուսնօց
+ stem: դասնէրգուսնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий двенадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըժէք
+ stem: դասնըժէք.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тринадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըժէքագան
+ stem: դասնըժէքագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по тринадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըժէքում
+ stem: դասնըժէքում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тринадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըժէքնօց
+ stem: դասնըժէքնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий тринадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասչօրս
+ stem: դասչօրս.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: четырнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասչօրսագան
+ stem: դասչօրսագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по четырнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասչօրսում
+ stem: դասչօրսում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: четырнадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասչօրսնօց
+ stem: դասչօրսնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий четырнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըհինգ
+ stem: դասնըհինգ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пятнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըհինգագան
+ stem: դասնըհինգագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по пятнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըհինգում
+ stem: դասնըհինգում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пятнадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըհինգնօց
+ stem: դասնըհինգնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий пятнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըվէց
+ stem: դասնըվէց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шестнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըվէցագան
+ stem: դասնըվէցագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по шестнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըվէցում
+ stem: դասնըվէցում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шестнадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըվէցնօց
+ stem: դասնըվէցնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий шестнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըօխտը
+ stem: դասնըօխտը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: семнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըօխտնագան
+ stem: դասնըօխտնագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по семнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըօխտնում
+ stem: դասնըօխտնում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: семнадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըօխտնօց
+ stem: դասնըօխտնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий семнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըութը
+ stem: դասնըութը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: восемнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըութնագան
+ stem: դասնըութնագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по восемнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըութնում
+ stem: դասնըութնում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: восемнадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըութնօց
+ stem: դասնըութնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий восемнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըինը
+ stem: դասնըինը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: девятнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըիննագան
+ stem: դասնըիննագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по девятнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըիննում
+ stem: դասնըիննում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: девятнадцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնըիննօց
+ stem: դասնըիննօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий девятнадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնում
+ stem: դասնում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: десятый
+ lemma_type: dialectal
+
+-lexeme
+ lex: դասնօց
+ stem: դասնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: десятка (о денежной купюре и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դարա
+ stem: դարա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: (уничижит.), его, её, принадлежащий ему, ей, свойственный ему, ей, характерный для него, для неё
+ lemma_type: dialectal
+
+-lexeme
+ lex: դացա
+ stem: դացա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: их
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէ
+ stem: դէ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ну, но, так, то
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէբի
+ stem: դէբի.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: к, ко, по направлению к
+ lemma_type: dialectal
+
+-lexeme
+ lex: դէյին
+ stem: դէյին.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: для, ради
+ lemma_type: dialectal
+
+-lexeme
+ lex: դըղաք
+ stem: դըղաք.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ребята!, парни!
+ lemma_type: dialectal
+
+-lexeme
+ lex: դուն
+ stem: դուն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ты
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօխսան
+ stem: դօխսան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: девяносто
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօխսանագան
+ stem: դօխսանագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по девяносто (каждый, каждому, от каждого).	
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօխսաննօց
+ stem: դօխսաննօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий девяносто (рублей и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: դօխսանում
+ stem: դօխսանում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: девяностый
+ lemma_type: dialectal
+
+-lexeme
+ lex: է
+ stem: է.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хватит!, довольно!, сколько можно!
+ lemma_type: dialectal
+
+-lexeme
+ lex: էգէր
+ stem: էգէր.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: если, в случае если
+ lemma_type: dialectal
+
+-lexeme
+ lex: էնգ
+ stem: էնգ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: самый, наиболее
+ lemma_type: dialectal
+
+-lexeme
+ lex: էռսուն
+ stem: էռսուն.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тридцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: էռսունագան
+ stem: էռսունագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по тридцать (каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: էռսուննօց
+ stem: էռսուննօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достоинством в тридцать (рублей и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: էռսունում
+ stem: էռսունում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тридцатый
+ lemma_type: dialectal
+
+-lexeme
+ lex: էվալլա
+ stem: էվալլա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с богом, в добрый час, удачи
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգու
+ stem: էրգու.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: два
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգուսնօց
+ stem: էրգուսնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достоинством в два (рубля и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգուսում
+ stem: էրգուսում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: второй
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգուսումը
+ stem: էրգուսումը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: второй
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրգվադ
+ stem: էրգվադ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: две (штуки и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: էրնէգ
+ stem: էրնէգ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: дай бог, хоть бы
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէմիզ
+ stem: թէմիզ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: всё
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէմիզը
+ stem: թէմիզը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: все, каждый
+ lemma_type: dialectal
+
+-lexeme
+ lex: թէք
+ stem: թէք.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: только, только бы, лишь бы
+ lemma_type: dialectal
+
+-lexeme
+ lex: թօղ
+ stem: թօղ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пусть, пускай
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժէն
+ stem: ժէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: себя, себе
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժէք
+ stem: ժէք.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: три
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժէքադ
+ stem: ժէքադ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: три (штуки)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժէք-ժէք
+ stem: ժէք-ժէք.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по три (каждый, каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժէքում
+ stem: ժէքում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: третий
+ lemma_type: dialectal
+
+-lexeme
+ lex: ժէքումը
+ stem: ժէքումը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: третий
+ lemma_type: dialectal
+
+-lexeme
+ lex: ի
+ stem: ի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: неужели?, в самом деле?
+ lemma_type: dialectal
+
+-lexeme
+ lex: իդա
+ stem: իդա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, тот, та
+ lemma_type: dialectal
+
+-lexeme
+ lex: իմ
+ stem: իմ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мой, моя, моё, мои
+ lemma_type: dialectal
+
+-lexeme
+ lex: իմիշ
+ stem: իմիշ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот что
+ lemma_type: dialectal
+
+-lexeme
+ lex: իմիս
+ stem: իմիս.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мой, моя, моё, мои
+ lemma_type: dialectal
+
+-lexeme
+ lex: իմիսը
+ stem: իմիսը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мой, моя, моё, мои, замещает опущенное в речи существительное
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինա
+ stem: ինա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тот, та, то, те
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինը
+ stem: ինը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: девять
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինձի
+ stem: ինձի.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мне
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինձիմէն
+ stem: ինձիմէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от меня
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինձիմօվ
+ stem: ինձիմօվ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мной, мною
+ lemma_type: dialectal
+
+-lexeme
+ lex: իննում
+ stem: իննում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: девятый
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչ
+ stem: ինչ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: что
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչէս
+ stem: ինչէս.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как, каким образом
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինչօվ
+ stem: ինչօվ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чем
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինօնք
+ stem: ինօնք.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: те
+ lemma_type: dialectal
+
+-lexeme
+ lex: ինքը
+ stem: ինքը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сам
+ lemma_type: dialectal
+
+-lexeme
+ lex: իսա
+ stem: իսա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этот, эта, это, эти
+ lemma_type: dialectal
+
+-lexeme
+ lex: իսկը
+ stem: իսկը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: именно
+ lemma_type: dialectal
+
+-lexeme
+ lex: իրէն
+ stem: իրէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: себя, себе
+ lemma_type: dialectal
+
+-lexeme
+ lex: իրէնմէն
+ stem: իրէնմէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от себя
+ lemma_type: dialectal
+
+-lexeme
+ lex: իրէնցմէն
+ stem: իրէնցմէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от себя
+ lemma_type: dialectal
+
+-lexeme
+ lex: իք
+ stem: իք.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: что-то, нечто неопределённое
+ lemma_type: dialectal
+
+-lexeme
+ lex: իքը
+ stem: իքը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: то, тот (предмет), та (вещь), тот (человек)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ծը-ծը-ծը
+ stem: ծը-ծը-ծը.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ай-ай-ай, ой-ой-ой, ну и ну, повторяющиеся звуки, произносимые на вдохе, выражающие сожаление или удивление
+ lemma_type: dialectal
+
+-lexeme
+ lex: կը
+ stem: կը.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: հա
+ stem: հա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: да?, так ведь?, ведь так же?
+ lemma_type: dialectal
+
+-lexeme
+ lex: հաբա
+ stem: հաբա.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: а, же
+ lemma_type: dialectal
+
+-lexeme
+ lex: հադա
+ stem: հադա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот
+ lemma_type: dialectal
+
+-lexeme
+ lex: հազա
+ stem: հազա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот
+ lemma_type: dialectal
+
+-lexeme
+ lex: հազար
+ stem: հազար.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тысяча
+ lemma_type: dialectal
+
+-lexeme
+ lex: հազարագան
+ stem: հազարագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по тысяче
+ lemma_type: dialectal
+
+-lexeme
+ lex: հազարում
+ stem: հազարում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тысячный
+ lemma_type: dialectal
+
+-lexeme
+ lex: համար
+ stem: համար.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: для, ради, из-за
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայ
+ stem: հայ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выражает удивление, восхищение, испуг, возмущение, негодование
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայդա
+ stem: հայդա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ну же!, айда!, давай!, вперёд!, пошёл! (при понукании животного)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայվախ
+ stem: հայվախ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ах! жаль! увы!
+ lemma_type: dialectal
+
+-lexeme
+ lex: հայտ-հայտ
+ stem: հայտ-հայտ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: айда! пошёл! давай! (при понукании животных)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հանա
+ stem: հանա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вот, вот он, вон он
+ lemma_type: dialectal
+
+-lexeme
+ lex: հանահա
+ stem: հանահա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: հառյօչ
+ stem: հառյօչ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: победный клич выигравшего при игре в прятки
+ lemma_type: dialectal
+
+-lexeme
+ lex: հարուր
+ stem: հարուր.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сто
+ lemma_type: dialectal
+
+-lexeme
+ lex: հարուրագան
+ stem: հարուրագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по сто
+ lemma_type: dialectal
+
+-lexeme
+ lex: հարուրնօց
+ stem: հարուրնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достоинством в сто (о денежной купюре)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հարուրում
+ stem: հարուրում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сотый
+ lemma_type: dialectal
+
+-lexeme
+ lex: հաքա
+ stem: հաքա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: форма обращения женщин друг к другу
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէ
+ stem: հէ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: и?, и что?, и что теперь?, а?, да?
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէդ
+ stem: հէդ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: с, вместе
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէմ
+ stem: հէմ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: и, также, в том числе
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէյ
+ stem: հէյ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас погонщика при понукании волов
+ lemma_type: dialectal
+
+-lexeme
+ lex: հէչօլմասա
+ stem: հէչօլմասա.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хоть, хотя бы, по крайней мере
+ lemma_type: dialectal
+
+-lexeme
+ lex: հինգ
+ stem: հինգ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пять
+ lemma_type: dialectal
+
+-lexeme
+ lex: հինգում
+ stem: հինգում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пятый
+ lemma_type: dialectal
+
+-lexeme
+ lex: հինքադ
+ stem: հինքադ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пять (штук)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հիսուն
+ stem: հիսուն.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пятьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: հիսունագան
+ stem: հիսունագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по пятидесяти
+ lemma_type: dialectal
+
+-lexeme
+ lex: հիսուննօց
+ stem: հիսուննօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достоинством в пятьдесят (о денежной купюре)
+ lemma_type: dialectal
+
+-lexeme
+ lex: հիսունում
+ stem: հիսունում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: пятидесятый
+ lemma_type: dialectal
+
+-lexeme
+ lex: հույթ
+ stem: հույթ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас, которым отгоняют людей, собак и т.п.
+ lemma_type: dialectal
+
+-lexeme
+ lex: հօչըմասըմ
+ stem: հօչըմասըմ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: хоть, хотя бы, по крайней мере
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձէզի
+ stem: ձէզի.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вам
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձէզիմէն
+ stem: ձէզիմէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: от вас
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձէզիմօվ
+ stem: ձէզիմօվ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: вами
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձէր
+ stem: ձէր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ваш, ваша, ваше, ваши
+ lemma_type: dialectal
+
+-lexeme
+ lex: ձօ
+ stem: ձօ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: эй!, слушай!
+ lemma_type: dialectal
+
+-lexeme
+ lex: մադէ
+ stem: մադէ.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кроме, за исключением, помимо
+ lemma_type: dialectal
+
+-lexeme
+ lex: մաշալլա
+ stem: մաշալլա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: выражает восторг
+ lemma_type: dialectal
+
+-lexeme
+ lex: մասին
+ stem: մասին.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: о, обо, про, насчёт
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգ
+ stem: մէգ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: один
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգը
+ stem: մէգը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кто-то, один, один…другой
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգին
+ stem: մէգին.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кому
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգին-մէգալին
+ stem: մէգին-մէգալին.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: всякому, кому ни попадя (говорить)
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէգուգէս
+ stem: մէգուգէս.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: полтора
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէզի
+ stem: մէզի.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: нам
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէխք
+ stem: մէխք.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: жаль!, вот досада!
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէնք
+ stem: մէնք.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: мы
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէր
+ stem: մէր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наш
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէրը
+ stem: մէրը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наш, нашего, нашим, наших, от наших, нашими
+ lemma_type: dialectal
+
+-lexeme
+ lex: մէրօնք
+ stem: մէրօնք.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: наши, свои
+ lemma_type: dialectal
+
+-lexeme
+ lex: մը
+ stem: մը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: один
+ lemma_type: dialectal
+
+-lexeme
+ lex: մըրգըվայ
+ stem: մըրգըվայ.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: слегка опалённый, обгоревший (о волосах, одежде)
+ lemma_type: dialectal
+
+-lexeme
+ lex: մի
+ stem: մի.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: не
+ lemma_type: dialectal
+
+-lexeme
+ lex: յա
+ stem: յա.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: или, либо
+ lemma_type: dialectal
+
+-lexeme
+ lex: յանըխարա
+ stem: յանըխարա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: восклицание, выражающее гнев, негодование, удивление
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէթմիշ
+ stem: յէթմիշ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: семьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէթմիշագան
+ stem: յէթմիշագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по семьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէթմիշնօց
+ stem: յէթմիշնօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достоинством в семьдесят (рублей и т.п.)
+ lemma_type: dialectal
+
+-lexeme
+ lex: յէթմիշում
+ stem: յէթմիշում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: семидесятый
+ lemma_type: dialectal
+
+-lexeme
+ lex: նա
+ stem: նա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на!, бери!, держи!
+ lemma_type: dialectal
+
+-lexeme
+ lex: նարա
+ stem: նարա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: его, её
+ lemma_type: dialectal
+
+-lexeme
+ lex: նացա
+ stem: նացա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: их (родит. падеж)
+ lemma_type: dialectal
+
+-lexeme
+ lex: նաքա
+ stem: նաքա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: они
+ lemma_type: dialectal
+
+-lexeme
+ lex: նէսէնդէ
+ stem: նէսէնդէ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кто знает?
+ lemma_type: dialectal
+
+-lexeme
+ lex: նը
+ stem: նը.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: если
+ lemma_type: dialectal
+
+-lexeme
+ lex: ու
+ stem: ու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ведь, же, ж
+ lemma_type: dialectal
+
+-lexeme
+ lex: ութը
+ stem: ութը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: восемь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ութը-ութը
+ stem: ութը-ութը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по восьми, по восемь
+ lemma_type: dialectal
+
+-lexeme
+ lex: ութնում
+ stem: ութնում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: восьмой
+ lemma_type: dialectal
+
+-lexeme
+ lex: ուրէմըն
+ stem: ուրէմըն.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: следовательно, значит, в таком случае
+ lemma_type: dialectal
+
+-lexeme
+ lex: չ
+ stem: չ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: չախ
+ stem: չախ.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: до, вплоть до, до самого (в значении времени и пространства)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չու
+ stem: չու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: но! пошёл! (окрик, которым погоняют лошадь)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չունքի
+ stem: չունքի.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: потому что, так как, поскольку
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօրս
+ stem: չօրս.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: четыре
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօրսադ
+ stem: չօրսադ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: четыре (штуки)
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօրս-չօրս
+ stem: չօրս-չօրս.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по четыре
+ lemma_type: dialectal
+
+-lexeme
+ lex: չօրսում
+ stem: չօրսում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: четвёртый
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջաթ
+ stem: ջաթ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: нельзя есть! (команда собаке)
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջանըմ
+ stem: ջանըմ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: душа моя, голубчик
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջանըս
+ stem: ջանըս.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: душа моя, голубчик, голубушка, милый мой, милая моя
+ lemma_type: dialectal
+
+-lexeme
+ lex: ջիփ
+ stem: ջիփ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: dialectal
+
+-lexeme
+ lex: սա
+ stem: սա.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этот, эта, это, эти
+ lemma_type: dialectal
+
+-lexeme
+ lex: սավօր
+ stem: սավօր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этого (родит. падеж)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սէքսէն
+ stem: սէքսէն.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: восемьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: սէքսէնագան
+ stem: սէքսէնագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по восемьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: սէքսէննօց
+ stem: սէքսէննօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: достоинством в восемьдесят (рублей)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սէքսէնում
+ stem: սէքսէնում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: восьмидесятый
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըմալ
+ stem: սըմալ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как, подобно
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըվօնք
+ stem: սըվօնք.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: эти
+ lemma_type: dialectal
+
+-lexeme
+ lex: սըվօր
+ stem: սըվօր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: этого
+ lemma_type: dialectal
+
+-lexeme
+ lex: սիգից
+ stem: սիգից.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: через (в сочетании с числительными указывает на срок, промежуток времени, по истечении которого должно произойти, совершиться или повториться какое-либо действие)
+ lemma_type: dialectal
+
+-lexeme
+ lex: սօպ
+ stem: սօպ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: клич погонщика при понукании запряжённых волов, лошадей, означающий «налево!»
+ lemma_type: dialectal
+
+-lexeme
+ lex: վաթցուն
+ stem: վաթցուն.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шестьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: վաթցունագան
+ stem: վաթցունագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по шестьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: վաթցուննօց
+ stem: վաթցուննօց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: стоящий или весящий шестьдесят
+ lemma_type: dialectal
+
+-lexeme
+ lex: վաթցունում
+ stem: վաթցունում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шестидесятый
+ lemma_type: dialectal
+
+-lexeme
+ lex: վախ-վախ-վախ
+ stem: վախ-վախ-վախ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас удивления, восхищения
+ lemma_type: dialectal
+
+-lexeme
+ lex: վայ
+ stem: վայ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас удивления, испуга, печали, боли и т.п.
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէց
+ stem: վէց.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шесть
+ lemma_type: dialectal
+
+-lexeme
+ lex: վէցադ
+ stem: վէցադ.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: шесть (штук)
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըշշ
+ stem: վըշշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас сожаления, огорчения (у женщин)
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըշ-վըշ
+ stem: վըշ-վըշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас восхищения, произнесённый с долей иронии
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըրա
+ stem: վըրա.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: на, над, сверху, поверх
+ lemma_type: dialectal
+
+-lexeme
+ lex: վըրայօվ
+ stem: վըրայօվ.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: о, обо
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօվ
+ stem: վօվ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кто
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօր
+ stem: վօր.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: какой, который, чей
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօրին
+ stem: վօրին.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чей, чья, чьё, чьи
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօրինը
+ stem: վօրինը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: чей, чья, чьё, чьи
+ lemma_type: dialectal
+
+-lexeme
+ lex: վօրօվհէդէվ
+ stem: վօրօվհէդէվ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: так как, поскольку, потому что
+ lemma_type: dialectal
+
+-lexeme
+ lex: տպռու-հօվ
+ stem: տպռու-հօվ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: клич возницы, останавливающий движение запряжённых волов
+ lemma_type: dialectal
+
+-lexeme
+ lex: փիստ
+ stem: փիստ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: брысь!
+ lemma_type: dialectal
+
+-lexeme
+ lex: փիֆ
+ stem: փիֆ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: фу! (выражение отвращения)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քանի
+ stem: քանի.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сколько
+ lemma_type: dialectal
+
+-lexeme
+ lex: քանիագան
+ stem: քանիագան.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по столько то (каждый, каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քառսուն
+ stem: քառսուն.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сорок
+ lemma_type: dialectal
+
+-lexeme
+ lex: քառսունագան
+ stem: քառսունագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по сорок (каждый, каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քառսունում
+ stem: քառսունում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: сороковой
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէզի
+ stem: քէզի.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тебе (дат. падеж)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէզիմէն
+ stem: քէզիմէն.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: у тебя, от тебя (исходный падеж)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէզիմօվ
+ stem: քէզիմօվ.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: тобой, тобою (творит. падеж)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քէսըմ
+ stem: քէսըմ.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: как, подобно, наподобие
+ lemma_type: dialectal
+
+-lexeme
+ lex: քըշ
+ stem: քըշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кыш, возглас, которым отгоняют домашнюю птицу
+ lemma_type: dialectal
+
+-lexeme
+ lex: քի
+ stem: քի.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: что, чтоб, чтобы
+ lemma_type: dialectal
+
+-lexeme
+ lex: քու
+ stem: քու.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: твой
+ lemma_type: dialectal
+
+-lexeme
+ lex: քուգուդը
+ stem: քուգուդը.
+ gramm: PRON
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: твой, твоя, твоё, твои
+ lemma_type: dialectal
+
+-lexeme
+ lex: քսան
+ stem: քսան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: двадцать
+ lemma_type: dialectal
+
+-lexeme
+ lex: քսանագան
+ stem: քսանագան.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по двадцать (каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: քօվ
+ stem: քօվ.
+ gramm: PREP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: при, у, близ, около, подле, возле, рядом
+ lemma_type: dialectal
+
+-lexeme
+ lex: օխ
+ stem: օխ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: и поделом! так тебе (ему, ей, им) и надо!, будет (ему, ей, им) наукой!
+ lemma_type: dialectal
+
+-lexeme
+ lex: օխթը
+ stem: օխթը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: семь
+ lemma_type: dialectal
+
+-lexeme
+ lex: օխթը-օխթը
+ stem: օխթը-օխթը.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: по семь (каждый, каждому, от каждого)
+ lemma_type: dialectal
+
+-lexeme
+ lex: օխթնում
+ stem: օխթնում.
+ gramm: NUM
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: седьмой
+ lemma_type: dialectal
+
+-lexeme
+ lex: օհ
+ stem: օհ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас, выражающий различные чувства – страх, испуг, недовольство, негодование, изумление
+ lemma_type: dialectal
+
+-lexeme
+ lex: օվ
+ stem: օվ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: кто?
+ lemma_type: dialectal
+
+-lexeme
+ lex: օֆ
+ stem: օֆ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: ох!
+ lemma_type: dialectal
+
+-lexeme
+ lex: ֆըշտ
+ stem: ֆըշտ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: возглас, которым отгоняют или дрессируют собак
+ lemma_type: dialectal
+

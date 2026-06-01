@@ -1,0 +1,4310 @@
+﻿-lexeme
+ lex: ալ
+ stem: ալ.
+ gramm: PART
+ gloss: red
+ paradigm: Empty
+ trans_en: red
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ալո
+ stem: ալո.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ախ
+ stem: ախ.
+ gramm: INTJ
+ gloss: ah!_oh!
+ paradigm: Empty
+ trans_en: ah!, oh!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ախ-վախ
+ stem: ախ-վախ.
+ gramm: INTJ
+ gloss: ah!_oh!_alas!
+ paradigm: Empty
+ trans_en: ah!, oh!, alas!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ախր
+ stem: ախր.
+ gramm: PART
+ gloss: but
+ paradigm: Empty
+ trans_en: but, why
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ահ
+ stem: ահ.
+ gramm: INTJ
+ gloss: oh
+ paradigm: Empty
+ trans_en: o!, oh!, ah!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ահա
+ stem: ահա.
+ gramm: PART
+ gloss: here
+ paradigm: Empty
+ trans_en: here!, here you are!, here is...
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ահավասիկ
+ stem: ահաւասիկ.//ահավասիկ.
+ gramm: PART
+ gloss: here
+ paradigm: Empty
+ trans_en: here!, here you are!, here is...
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: աղու
+ stem: աղու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: աման
+ stem: աման.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ամբողջ
+ stem: ամբողջ.
+ gramm: PRON,A
+ gloss: all
+ paradigm: N12
+ trans_en: all, whole
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ամեն
+ stem: ամէն.//ամեն.
+ gramm: PRON,A
+ gloss: each
+ paradigm: N12
+ trans_en: each
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ամենա
+ stem: ամենա.
+ gramm: PART
+ gloss: (the).most
+ paradigm: Empty
+ trans_en: (the) most
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ամենայն
+ stem: ամենայն.
+ gramm: PRON,A
+ gloss: all
+ paradigm: N12
+ trans_en: all
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ամենք
+ stem: ամէնք.//ամենք.
+ gramm: PRON,S,hum
+ gloss: all
+ paradigm: N12
+ trans_en: all, everybody
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այ
+ stem: այ.
+ gramm: INTJ
+ gloss: holla
+ paradigm: Empty
+ trans_en: holla
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այ-այ
+ stem: այ-այ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այ-վայ
+ stem: այ-վայ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդ
+ stem: այդ.
+ gramm: PRON,dem
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդմ
+ stem: այդմ.
+ gramm: Pron
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդուամենայնիվ
+ stem: այդուամենայնիվ.//այդուամենայնիւ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդուհանդերձ
+ stem: այդուհանդէրձ.//այդուհանդերձ.
+ gramm: PART
+ gloss: still
+ paradigm: Empty
+ trans_en: still, all the same, nevertheless
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդչափ
+ stem: այդչափ.
+ gramm: PRON,ADV
+ gloss: that.much
+ paradigm: Empty
+ trans_en: so/that much, so few/little
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդպես
+ stem: այդպէս.//այդպես.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդպիսի
+ stem: այդպիսի.
+ gramm: PRON,A
+ gloss: such
+ paradigm: N12a
+ trans_en: such
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդպիսիք
+ stem: այդպիսիք.
+ gramm: PRON,A,intrg
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդպիսով
+ stem: այդպիսով.
+ gramm: CONJ
+ gloss: so
+ paradigm: Empty
+ trans_en: so, thus
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդտեղ
+ stem: այդտեղ.//այդտէղ.
+ gramm: PRON,ADV
+ gloss: there
+ paradigm: N12
+ trans_en: there, yonder
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այդքան
+ stem: այդքան.
+ gramm: PRON,ADV
+ gloss: such
+ paradigm: N12
+ trans_en: so/that much, so few/little
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այլ
+ stem: այլ.
+ gramm: PRON,A
+ gloss: other
+ paradigm: N81b
+ trans_en: other, but
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այլեւ
+ stem: այլէւ.//այլեւ.//այլեվ.//այլև.
+ gramm: CONJ
+ gloss: also
+ paradigm: Empty
+ trans_en: also, but
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այն
+ stem: այն.
+ gramm: PRON,dem
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այնինչ
+ stem: այնինչ.
+ gramm: PART
+ gloss: whereas
+ paradigm: Empty
+ trans_en: so-and-so, whereas, whilst
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այնուամենայնիվ
+ stem: այնուամենայնիվ.//այնուամենայնիւ.
+ gramm: CONJ
+ gloss: however
+ paradigm: Empty
+ trans_en: none the less, however, in spite of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այնուհանդերձ
+ stem: այնուհանդէրձ.//այնուհանդերձ.
+ gramm: CONJ
+ gloss: for.all.that
+ paradigm: Empty
+ trans_en: for all that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այնչափ
+ stem: այնչափ.
+ gramm: PRON,ADV
+ gloss: so.much_many
+ paradigm: Empty
+ trans_en: so much/many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այնպես
+ stem: այնպէս.//այնպես.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այնպիսի
+ stem: այնպիսի.
+ gramm: PRON,A
+ gloss: such
+ paradigm: N12a
+ trans_en: such
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այնքան
+ stem: այնքան.
+ gramm: PRON,ADV
+ gloss: so.much
+ paradigm: N12
+ trans_en: so much/many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այո
+ stem: այո.
+ gramm: PART
+ gloss: yes
+ paradigm: Empty
+ trans_en: yes
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այս
+ stem: այս.
+ gramm: PRON,dem
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսինչ
+ stem: այսինչ.
+ gramm: PRON,A
+ gloss: such.and.such
+ paradigm: Empty
+ trans_en: such-and-such, so-and-so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսինչ-այնինչ
+ stem: այսինչ-այնինչ.
+ gramm: PRON,A
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսինքն
+ stem: այսինքն.
+ gramm: CONJ
+ gloss: that.is
+ paradigm: Empty
+ trans_en: that is
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսու
+ stem: այսու.
+ gramm: PRON,A
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսուամենայնիվ
+ stem: այսուամենայնիւ.//այսուամենայնիվ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսուհանդերձ
+ stem: այսուհանդերձ.//այսուհանդէրձ.
+ gramm: CONJ
+ gloss: nevertheless
+ paradigm: Empty
+ trans_en: nevertheless, nonetheless
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսչափ
+ stem: այսչափ.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսպես
+ stem: այսպէս.//այսպես.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսպիսի
+ stem: այսպիսի.
+ gramm: PRON,A
+ gloss: such
+ paradigm: N12a
+ trans_en: such, the same
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսպիսով
+ stem: այսպիսով.
+ gramm: CONJ
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: այսքան
+ stem: այսքան.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: N12
+ trans_en: so, this much
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ան
+ stem: ան.
+ gramm: PRON,S,hum,sg
+ gloss: he
+ paradigm: Empty
+ trans_en: he, she, it
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: անգամ
+ stem: անգամ.
+ gramm: PART
+ gloss: even
+ paradigm: Empty
+ trans_en: even
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: անկասկած
+ stem: անկասկած.
+ gramm: PART
+ gloss: undoubtedly
+ paradigm: Empty
+ trans_en: undoubtedly, beyond all question, certainly
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: անշուշտ
+ stem: անշուշտ.
+ gramm: PART
+ gloss: of.course
+ paradigm: Empty
+ trans_en: undoubtedly, of course
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: անց
+ stem: անց.
+ gramm: CONJ
+ gloss: after
+ paradigm: Empty
+ trans_en: after, over
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ապաքեն
+ stem: ապաքէն.//ապաքեն.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: առ
+ stem: առ.
+ gramm: PREP
+ gloss: up.to
+ paradigm: Empty
+ trans_en: up to
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: առանց
+ stem: առանց.
+ gramm: PREP
+ gloss: without
+ paradigm: Empty
+ trans_en: without, minus, except
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: առաջ
+ stem: առաջ.
+ gramm: POST
+ gloss: before
+ paradigm: N51
+ trans_en: before, front side, ahead
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: առընթեր
+ stem: առընթէր.//առընթեր.
+ gramm: POST
+ gloss: attached.to
+ paradigm: N12
+ trans_en: attached to, by, close by
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: առթիվ
+ stem: առթիվ.//առթիւ.
+ gramm: POST
+ gloss: in.view.of
+ paradigm: Empty
+ trans_en: in view of, on the occasion (of), in connection with
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: առջեւ
+ stem: առջեւ.//առջեվ.//առջև.//առջէւ.
+ gramm: POST
+ gloss: before
+ paradigm: N12
+ trans_en: before
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ավաղ
+ stem: աւաղ.//ավաղ.
+ gramm: INTJ
+ gloss: alas
+ paradigm: Empty
+ trans_en: alas! oh! what a pity!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ավել
+ stem: ավէլ.//ավել.//աւել.
+ gramm: CONJ
+ gloss: more
+ paradigm: Empty
+ trans_en: more, besides
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: արար
+ stem: արար.
+ gramm: PRON,A
+ gloss: whole_all.over
+ paradigm: N12
+ trans_en: whole, all over
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: արդարեւ
+ stem: արդարեւ.//արդարեվ.//արդարէւ.//արդարև.
+ gramm: PART
+ gloss: indeed
+ paradigm: Empty
+ trans_en: indeed, truly, really
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: արդյոք
+ stem: արդյոք.
+ gramm: PART
+ gloss: whether
+ paradigm: Empty
+ trans_en: whether, really?, is it possible?
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ափսոս
+ stem: ափսոս.
+ gramm: PART
+ gloss: alas
+ paradigm: Empty
+ trans_en: alas!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բա
+ stem: բա.
+ gramm: CONJ
+ gloss: INTERJ
+ paradigm: Empty
+ trans_en: pooh! pshaw! well! like that! I told you didn't you know?
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բահ
+ stem: բահ.
+ gramm: INTJ
+ gloss: INTERJ
+ paradigm: Empty
+ trans_en: oho! ugh! ouch! wow!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բամ
+ stem: բամ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բայց
+ stem: բայց.
+ gramm: CONJ
+ gloss: but
+ paradigm: Empty
+ trans_en: but, however
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բաս
+ stem: բաս.
+ gramm: PART
+ gloss: that's.the.way
+ paradigm: Empty
+ trans_en: that's the way
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բարեւ
+ stem: բարեվ.//բարեւ.//բարէւ.//բարև.
+ gramm: PART
+ gloss: hello
+ paradigm: N12
+ trans_en: hello
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բացի
+ stem: բացի.
+ gramm: PREP
+ gloss: besides
+ paradigm: Empty
+ trans_en: besides, except
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բո
+ stem: բո.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բոլորք
+ stem: բոլորք.
+ gramm: POST
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բուլի-բուլի
+ stem: բուլի-բուլի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: բուհ
+ stem: բուհ.
+ gramm: INTJ
+ gloss: university
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: գեթ
+ stem: գէթ.//գեթ.
+ gramm: PART
+ gloss: if.only
+ paradigm: Empty
+ trans_en: if only
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: գլգըլ
+ stem: գլգըլ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: գուցե
+ stem: գուցէ.//գուցե.
+ gramm: PART
+ gloss: perhaps
+ paradigm: Empty
+ trans_en: perhaps
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դա
+ stem: դա.|դր.//դըր.
+ gramm: PRON,dem
+ gloss: that
+ paradigm: P21
+ trans_en: this, that, it
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դահ
+ stem: դահ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դե
+ stem: դե.//դէ.
+ gramm: PART
+ gloss: well
+ paradigm: Empty
+ trans_en: now, come, well
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դեմ-դիմաց
+ stem: դեմ-դիմաց.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դեմ-հանդիման
+ stem: դեմ-հանդիման.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դեն
+ stem: դէն.//դեն.
+ gramm: CONJ
+ gloss: outside
+ paradigm: Empty
+ trans_en: outside, away
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դեպ
+ stem: դէպ.//դեպ.
+ gramm: PREP
+ gloss: case
+ paradigm: Empty
+ trans_en: case
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դեպի
+ stem: դեպի.
+ gramm: PREP
+ gloss: to
+ paradigm: Empty
+ trans_en: to, meet
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դըմբ
+ stem: դըմբ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դըմփ
+ stem: դըմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դիմաց
+ stem: դիմաց.
+ gramm: POST
+ gloss: opposite
+ paradigm: N12
+ trans_en: opposite, in front of, instead/in place of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դիցուք
+ stem: դիցուք.
+ gramm: PART
+ gloss: let.us.assume_admit
+ paradigm: Empty
+ trans_en: let us assume/admit
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դոմփ
+ stem: դոմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դու
+ stem: դու.|քո.|քեզ.//քէզ.|քէզն.//քեզն.|քեզան.|քու.
+ gramm: PRON,S,hum,sg
+ gloss: thou
+ paradigm: P31
+ trans_en: you, thou
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դում
+ stem: դում.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դուն
+ stem: դուն.
+ gramm: PRON,S,hum,sg
+ gloss: you
+ paradigm: Empty
+ trans_en: you
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դուրս
+ stem: դուրս.|դրս.
+ gramm: POST
+ gloss: outside
+ paradigm: N13
+ trans_en: outside, apart from
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դուք
+ stem: դուք.|ձէր.//ձեր.|ձեզ.//ձէզ.|ձեզն.//ձէզն.|ձեզան.
+ gramm: PRON,S,hum,pl
+ gloss: you
+ paradigm: P31
+ trans_en: you
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դրըխկ
+ stem: դրըխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: դրըմփ
+ stem: դրըմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: եթե
+ stem: եթե.//եթէ.
+ gramm: CONJ
+ gloss: if
+ paradigm: Empty
+ trans_en: if
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: եղուկ
+ stem: եղուկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ես
+ stem: ես.|իմ.|ինձ.|ինձն.|ինձան.|ընձ.
+ gramm: PRON,S,hum,sg
+ gloss: me
+ paradigm: P31
+ trans_en: I
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: եսիմ
+ stem: եսիմ.
+ gramm: PART
+ gloss: I.don't.know
+ paradigm: Empty
+ trans_en: I don't know
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: երանի
+ stem: երանի.
+ gramm: PART
+ gloss: blessed
+ paradigm: Empty
+ trans_en: blessed
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: երբ
+ stem: երբ.
+ gramm: CONJ
+ gloss: when
+ paradigm: Empty
+ trans_en: when, while
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: երեսից
+ stem: երեսից.
+ gramm: CONJ
+ gloss: through.fault
+ paradigm: Empty
+ trans_en: through smb.'s fault, on/from the outside
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: երեւի
+ stem: երևի.//երեվի.//երեւի.
+ gramm: PART
+ gloss: apparently
+ paradigm: Empty
+ trans_en: apparently, evidently
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: երից
+ stem: երից.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: երնեկ
+ stem: երնէկ.//երնեկ.
+ gramm: PART
+ gloss: blessed
+ paradigm: Empty
+ trans_en: blessed
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: եւ
+ stem: և.//եւ.//եվ.
+ gramm: CONJ
+ gloss: and
+ paradigm: Empty
+ trans_en: and, too, either
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: եւեթ
+ stem: եւեթ.//եվեթ.//եւէթ.//ևեթ.
+ gramm: PART
+ gloss: just
+ paradigm: Empty
+ trans_en: just
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: եւս
+ stem: եւս.//ևս.//եվս.
+ gramm: CONJ
+ gloss: also
+ paradigm: Empty
+ trans_en: more, also, too
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: զանց
+ stem: զանց.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: զերդ
+ stem: զէրդ.//զերդ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: զըխկ
+ stem: զըխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: զընգ
+ stem: զընգ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: զի
+ stem: զի.
+ gramm: PREP
+ gloss: since
+ paradigm: Empty
+ trans_en: since
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: զուգընթաց
+ stem: զուգընթաց.
+ gramm: POST
+ gloss: at.the.same.time
+ paradigm: Empty
+ trans_en: at the same time
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: զրընգ
+ stem: զրընգ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էդ
+ stem: էդ.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էդի
+ stem: էդի.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էդպես
+ stem: էդպէս.//էդպես.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this, so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էդպիսի
+ stem: էդպիսի.
+ gramm: PRON,A,oral
+ gloss: such
+ paradigm: N12
+ trans_en: such
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էդտեղ
+ stem: էդտեղ.//էդտէղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էդքան
+ stem: էդքան.
+ gramm: PRON,ADV,oral
+ gloss: so.much
+ paradigm: N12
+ trans_en: so much, so many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էլ
+ stem: էլ.
+ gramm: PART
+ gloss: also
+ paradigm: Empty
+ trans_en: also, too, either
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էհ
+ stem: էհ.
+ gramm: INTJ
+ gloss: ah!.well!
+ paradigm: Empty
+ trans_en: ah! well!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էյ
+ stem: էյ.
+ gramm: INTJ
+ gloss: hey
+ paradigm: Empty
+ trans_en: hey! I say! look here! hello!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էն
+ stem: էն.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնդե
+ stem: էնդէ.//էնդե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնդեղ
+ stem: էնդէղ.//էնդեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնենց
+ stem: էնենց.//էնէնց.
+ gramm: PRON,ADV,oral
+ gloss: so
+ paradigm: N12
+ trans_en: so
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնի
+ stem: էնի.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնպես
+ stem: էնպես.//էնպէս.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնպիսի
+ stem: էնպիսի.
+ gramm: PRON,A,oral
+ gloss: such
+ paradigm: N12
+ trans_en: such
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնտե
+ stem: էնտե.//էնտէ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնտեղ
+ stem: էնտեղ.//էնտէղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էնքան
+ stem: էնքան.
+ gramm: PRON,ADV,oral
+ gloss: so.many
+ paradigm: N12
+ trans_en: so many, so much
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էս
+ stem: էս.
+ gramm: PRON,dem,oral
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսենց
+ stem: էսենց.//էսէնց.
+ gramm: PRON,dem,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսի
+ stem: էսի.
+ gramm: PRON,dem,oral
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսինչ
+ stem: էսինչ.
+ gramm: PRON,A,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսչափ
+ stem: էսչափ.
+ gramm: PRON,ADV,oral
+ gloss: this.much
+ paradigm: Empty
+ trans_en: this much
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսպես
+ stem: էսպես.//էսպէս.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսպիսի
+ stem: էսպիսի.
+ gramm: PRON,A,oral
+ gloss: such
+ paradigm: N12
+ trans_en: such
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսպիսով
+ stem: էսպիսով.
+ gramm: CONJ,oral
+ gloss: so_thus
+ paradigm: Empty
+ trans_en: so, thus
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էստե
+ stem: էստե.//էստէ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էստեղ
+ stem: էստէղ.//էստեղ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էստեղ-էնտեղ
+ stem: էստեղ-էնտեղ.//էստեղ-էնտէղ.
+ gramm: PRON,ADV,oral
+ gloss: here.there
+ paradigm: N11+N11
+ trans_en: here-there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էսքան
+ stem: էսքան.
+ gramm: PRON,ADV
+ gloss: this.much
+ paradigm: Empty
+ trans_en: this much/many, so much/many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էտ
+ stem: էտ.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էտենց
+ stem: էտէնց.//էտենց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էտքան
+ stem: էտքան.
+ gramm: PRON,ADV,oral
+ gloss: su.much_so.many
+ paradigm: N12
+ trans_en: su much, so many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: էրնեկ
+ stem: էրնէկ.//էրնեկ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ը
+ stem: ը.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըը
+ stem: ըը.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըհ
+ stem: ըհ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըհը
+ stem: ըհը.
+ gramm: INTJ
+ gloss: aha
+ paradigm: Empty
+ trans_en: aha! oho! really! indeed! is that so? is that right? that's the way/right, no way!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըհըն
+ stem: ըհըն.
+ gramm: INTJ,oral
+ gloss: here.you.are
+ paradigm: Empty
+ trans_en: here you are
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընդ
+ stem: ընդ.
+ gramm: PREP
+ gloss: with
+ paradigm: Empty
+ trans_en: with
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընդդեմ
+ stem: ընդդեմ.//ընդդէմ.
+ gramm: PREP
+ gloss: against
+ paradigm: Empty
+ trans_en: against, notwithstanding/despite/against (smb.'s desire), despite
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընդե
+ stem: ընդէ.//ընդե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընդեղ
+ stem: ընդէղ.//ընդեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընդմեջ
+ stem: ընդմեջ.//ընդմէջ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընդնմին
+ stem: ընդնմին.
+ gramm: Conj
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընդսմին
+ stem: ընդսմին.
+ gramm: Conj
+ gloss: for.all.that
+ paradigm: Empty
+ trans_en: for all that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընենց
+ stem: ընէնց.//ընենց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ընտեղ
+ stem: ընտէղ.//ընտեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըսենց
+ stem: ըսենց.//ըսէնց.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըսկի
+ stem: ըսկի.
+ gramm: PART,oral
+ gloss: at.all_absolutely
+ paradigm: Empty
+ trans_en: at all, absolutely
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըստ
+ stem: ըստ.
+ gramm: PREP
+ gloss: according
+ paradigm: Empty
+ trans_en: according to
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըստե
+ stem: ըստէ.//ըստե.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըստեղ
+ stem: ըստէղ.//ըստեղ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըտե
+ stem: ըտէ.//ըտե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըտեղ
+ stem: ըտեղ.//ըտէղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ըտենց
+ stem: ըտենց.//ըտէնց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թախկ
+ stem: թախկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թաք
+ stem: թաք.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թե
+ stem: թե.//թէ.
+ gramm: CONJ
+ gloss: that
+ paradigm: Empty
+ trans_en: that, or
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թեեւ
+ stem: թեէւ.//թեեւ.//թեև.//թեեվ.
+ gramm: CONJ
+ gloss: though
+ paradigm: Empty
+ trans_en: though
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թեկուզ
+ stem: թեկուզ.
+ gramm: CONJ
+ gloss: even
+ paradigm: Empty
+ trans_en: even
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թեպետ
+ stem: թեպետ.//թեպէտ.
+ gramm: CONJ
+ gloss: though
+ paradigm: Empty
+ trans_en: though
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թեպետեւ
+ stem: թեպետէւ.//թեպետեվ.//թեպետև.//թեպետեւ.
+ gramm: CONJ
+ gloss: though
+ paradigm: Empty
+ trans_en: though
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թերեւս
+ stem: թերեւս.//թերէւս.//թերեվս.//թերևս.
+ gramm: PART
+ gloss: perhaps
+ paradigm: Empty
+ trans_en: perhaps, probably, maybe
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թըմբ
+ stem: թըմբ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թըմփ
+ stem: թըմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թըշշ
+ stem: թըշշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թըռռ
+ stem: թըռռ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թըփ
+ stem: թըփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թխկ
+ stem: թխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թյու
+ stem: թյու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թող
+ stem: թող.
+ gramm: PART
+ gloss: let
+ paradigm: Empty
+ trans_en: let
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թու
+ stem: թու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թրախկ
+ stem: թրախկ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թրըխկ
+ stem: թրըխկ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թրըմփ
+ stem: թրըմփ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թրըփ
+ stem: թրըփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: թքած
+ stem: թքած.
+ gramm: PART
+ gloss: spit.(upon)
+ paradigm: Empty
+ trans_en: spit (upon)
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ի
+ stem: ի.
+ gramm: PREP
+ gloss: for
+ paradigm: Empty
+ trans_en: for
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իբր
+ stem: իբր.
+ gramm: CONJ
+ gloss: as
+ paradigm: Empty
+ trans_en: as if/though, as
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իբրեւ
+ stem: իբրեվ.//իբրէւ.//իբրեւ.//իբրև.
+ gramm: CONJ
+ gloss: as
+ paradigm: Empty
+ trans_en: as
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իհ
+ stem: իհ.
+ gramm: INTJ
+ gloss: shame.upon.you
+ paradigm: Empty
+ trans_en: tut-tut!, shame upon you!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իհարկե
+ stem: իհարկե.//իհարկէ.
+ gramm: PART
+ gloss: certainly
+ paradigm: Empty
+ trans_en: certainly, to be sure, sure
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իյա
+ stem: իյա.
+ gramm: INTJ,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչ
+ stem: ինչ.
+ gramm: PRON,S,intrg,sg
+ gloss: what
+ paradigm: N11
+ trans_en: what, that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչ-ինչ
+ stem: ինչ-ինչ.
+ gramm: PRON,A
+ gloss: whatsoever
+ paradigm: Empty
+ trans_en: whatsoever
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչ-որ
+ stem: ինչ-որ.
+ gramm: PRON,A
+ gloss: some
+ paradigm: P11
+ trans_en: some
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչեւէ
+ stem: ինչեվէ.//ինչևէ.//ինչեւէ.
+ gramm: PART
+ gloss: anyhow
+ paradigm: Empty
+ trans_en: anyhow, after all, one way or another
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչեւիցե
+ stem: ինչեվիցե.//ինչեւիցե.//ինչևիցե.//ինչեւիցէ.
+ gramm: PART
+ gloss: anyhow
+ paradigm: Empty
+ trans_en: anyhow, after all, one way or another
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչի
+ stem: ինչի.
+ gramm: PRON,ADV,intrg
+ gloss: why
+ paradigm: Empty
+ trans_en: why
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչու
+ stem: ինչու.
+ gramm: PRON,ADV,intrg
+ gloss: why
+ paradigm: Empty
+ trans_en: why, for what reason
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչպես
+ stem: ինչպէս.//ինչպես.
+ gramm: PRON,ADV,intrg
+ gloss: how
+ paradigm: Empty
+ trans_en: how
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչպիսի
+ stem: ինչպիսի.
+ gramm: PRON,A,intrg
+ gloss: what
+ paradigm: N12
+ trans_en: what
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչպիսիք
+ stem: ինչպիսիք.
+ gramm: PRON,A,intrg
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինչքան
+ stem: ինչքան.
+ gramm: PRON,ADV,intrg
+ gloss: how.much
+ paradigm: N12
+ trans_en: how many/much
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ինքը
+ stem: ինք.|իր.
+ gramm: PRON,S,hum,sg
+ gloss: oneself
+ paradigm: P23
+ trans_en: (he) himself
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իս
+ stem: իս.
+ gramm: PRON,S,hum,sg
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իսկ
+ stem: իսկ.
+ gramm: PART
+ gloss: true
+ paradigm: Empty
+ trans_en: namely, true
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իրար
+ stem: իրար.
+ gramm: PRON,S,hum
+ gloss: each.other
+ paradigm: N12
+ trans_en: each other
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: իցիվ
+ stem: իցիւ.//իցիվ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: լայ-լայ
+ stem: լայ-լայ.
+ gramm: INTJ
+ gloss: bye.bye_hushaby
+ paradigm: Empty
+ trans_en: bye-bye, hushaby
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: խաթեր
+ stem: խաթէր.//խաթեր.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: խաթրին
+ stem: խաթրին.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: խաթրու
+ stem: խաթրու.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: խըշ
+ stem: խըշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: խի
+ stem: խի.
+ gramm: PRON,ADV,intrg
+ gloss: why
+ paradigm: Empty
+ trans_en: why
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: խո
+ stem: խո.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: խոմ
+ stem: խոմ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ծը
+ stem: ծը.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ծիկ-ծիկ
+ stem: ծիկ-ծիկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ծիվ-ծիվ
+ stem: ծիւ-ծիւ.//ծիվ-ծիվ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ծլինգ
+ stem: ծլինգ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ծուղրուղու
+ stem: ծուղրուղու.
+ gramm: INTJ
+ gloss: cock.a.doodle.do
+ paradigm: Empty
+ trans_en: cock-a-doodle-do
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: կակ
+ stem: կակ.
+ gramm: PRON,ADV,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: կամ
+ stem: կամ.
+ gramm: CONJ
+ gloss: or
+ paradigm: Empty
+ trans_en: or
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: կեցցե
+ stem: կեցցէ.//կեցցե.
+ gramm: INTJ
+ gloss: bravo
+ paradigm: Empty
+ trans_en: bravo
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: կեցցես
+ stem: կեցցէս.//կեցցես.
+ gramm: INTJ
+ gloss: bravo
+ paradigm: Empty
+ trans_en: bravo
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: կռլու
+ stem: կռլու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հա
+ stem: հա.
+ gramm: PART
+ gloss: yes
+ paradigm: Empty
+ trans_en: yes
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հաա
+ stem: հաա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հաղագս
+ stem: հաղագս.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համ
+ stem: համ.
+ gramm: CONJ
+ gloss: co
+ paradigm: Empty
+ trans_en: co-
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համա
+ stem: համա.
+ gramm: CONJ
+ gloss: co
+ paradigm: Empty
+ trans_en: co-
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համա-համա
+ stem: համա-համա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համար
+ stem: համար.
+ gramm: POST
+ gloss: for
+ paradigm: Empty
+ trans_en: for, in order to, for the sake of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համեմատ
+ stem: համեմատ.
+ gramm: POST
+ gloss: comparable
+ paradigm: Empty
+ trans_en: conformable (to), comparable, suitable
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համենայն
+ stem: համենայն.
+ gramm: PRON,NP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համեցեք
+ stem: համեցեք.//համեցէք.
+ gramm: PART
+ gloss: if.you.please
+ paradigm: Empty
+ trans_en: if you please
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: համմե
+ stem: համմե.//համմէ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հայ-հայ
+ stem: հայ-հայ.
+ gramm: INTJ
+ gloss: so.that's.it
+ paradigm: Empty
+ trans_en: so that's it
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հայ-հարայ
+ stem: հայ-հարայ.
+ gramm: INTJ
+ gloss: help
+ paradigm: N12
+ trans_en: help
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հայ-հույ
+ stem: հայ-հույ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հայդա
+ stem: հայդա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հայդե
+ stem: հայդէ.//հայդե.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հանդեպ
+ stem: հանդեպ.//հանդէպ.
+ gramm: POST
+ gloss: in.front.of
+ paradigm: Empty
+ trans_en: in front of, instead of, with respect (to)
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հանդերձ
+ stem: հանդերձ.//հանդէրձ.
+ gramm: POST
+ gloss: together
+ paradigm: Empty
+ trans_en: together
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հանդիման
+ stem: հանդիման.
+ gramm: POST
+ gloss: opposite
+ paradigm: Empty
+ trans_en: opposite
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հանձին
+ stem: հանձին.
+ gramm: CONJ
+ gloss: in.smb.
+ paradigm: Empty
+ trans_en: in smb.
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հանձինս
+ stem: հանձինս.
+ gramm: CONJ
+ gloss: in.smb.
+ paradigm: Empty
+ trans_en: in smb.
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հանուն
+ stem: հանուն.
+ gramm: PREP
+ gloss: in.the.name
+ paradigm: Empty
+ trans_en: in the name (of)
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հապա
+ stem: հապա.
+ gramm: INTJ
+ gloss: now
+ paradigm: Empty
+ trans_en: now! now then! come!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հապօն
+ stem: հապօն.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հառաջ
+ stem: հառաջ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հարայ
+ stem: հարայ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հե
+ stem: հէ.//հե.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հեյ
+ stem: հէյ.//հեյ.
+ gramm: INTJ
+ gloss: hey
+ paradigm: Empty
+ trans_en: hey! hi! I say! look here!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հեյ-հեյ
+ stem: հեյ-հեյ.//հեյ-հէյ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հեյ-վախ
+ stem: հեյ-վախ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հեյվախ
+ stem: հեյվախ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հենա
+ stem: հենա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հեսա
+ stem: հեսա.
+ gramm: PART,oral
+ gloss: here_now
+ paradigm: Empty
+ trans_en: here, now
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հետ
+ stem: հետ.//հէտ.
+ gramm: POST
+ gloss: back
+ paradigm: N12
+ trans_en: back
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հետե
+ stem: հետէ.//հետե.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հետը
+ stem: հետը.
+ gramm: 
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հետս
+ stem: հէտս.//հետս.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հը
+ stem: հը.
+ gramm: INTJ
+ gloss: ha
+ paradigm: Empty
+ trans_en: ha (laughter)
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հըմ
+ stem: հըմ.
+ gramm: INTJ
+ gloss: hm
+ paradigm: Empty
+ trans_en: hm
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հիս
+ stem: հիս.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հիրավի
+ stem: հիրավի.//հիրաւի.
+ gramm: PART
+ gloss: really
+ paradigm: Empty
+ trans_en: really, indeed, in reality
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հո
+ stem: հո.
+ gramm: PART,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հուշտ
+ stem: հուշտ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: հօգուտ
+ stem: հօգուտ.
+ gramm: CONJ
+ gloss: favour
+ paradigm: Empty
+ trans_en: favour (of)
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ղըռ
+ stem: ղըռ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մասին
+ stem: մասին.
+ gramm: POST
+ gloss: about
+ paradigm: Empty
+ trans_en: about, concerning
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մեկնումեկ
+ stem: մեկնումէկ.//մեկնումեկ.
+ gramm: PRON,S,hum,sg
+ gloss: some
+ paradigm: N11
+ trans_en: someone, something, some
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մեղա
+ stem: մեղա.
+ gramm: INTJ
+ gloss: I.confess
+ paradigm: Empty
+ trans_en: I confess
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մենք
+ stem: մէնք.//մենք.|մեր.//մէր.|մէզ.//մեզ.|մեզն.//մէզն.|մեզան.|NONE.
+ gramm: PRON,S,hum,pl
+ gloss: we
+ paradigm: P31
+ trans_en: we
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մեջ
+ stem: մեջ.//մէջ.
+ gramm: POST
+ gloss: in
+ paradigm: N11
+ trans_en: in, inside, middle
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մի
+ stem: մի.
+ gramm: PART
+ gloss: PROH
+ paradigm: Empty
+ trans_en: don't; now!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: միգուցե
+ stem: միգուցէ.//միգուցե.
+ gramm: PART
+ gloss: perhaps
+ paradigm: Empty
+ trans_en: perhaps, maybe, very likely
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: միթե
+ stem: միթէ.//միթե.
+ gramm: PART
+ gloss: really
+ paradigm: Empty
+ trans_en: really? indeed? is it possible? could it be that..?
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: միմյանց
+ stem: միմյանց.
+ gramm: PRON,S,hum
+ gloss: each.other
+ paradigm: N12
+ trans_en: each other
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մինչեւ
+ stem: մինչեւ.//մինչև.//մինչէւ.//մինչեվ.
+ gramm: CONJ
+ gloss: to
+ paradigm: Empty
+ trans_en: to, as far as, till
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: միջեւ
+ stem: միջեւ.//միջեվ.//միջև.//միջէւ.
+ gramm: POST
+ gloss: between
+ paradigm: Empty
+ trans_en: between, among
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: մոտ
+ stem: մոտ.|մոտ.
+ gramm: POST
+ gloss: near
+ paradigm: N26
+ trans_en: near, nearest, next
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: յա
+ stem: յա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: յանի
+ stem: յանի.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: յոլա
+ stem: յոլա.
+ gramm: PART
+ gloss: get.on
+ paradigm: Empty
+ trans_en: manage, get on (with)
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: յուր
+ stem: յուր.
+ gramm: PRON,A,sg
+ gloss: his
+ paradigm: Empty
+ trans_en: his
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: յուրք
+ stem: յուրք.
+ gramm: PRON,A,pl
+ gloss: their
+ paradigm: Empty
+ trans_en: their
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նա
+ stem: նա.|նր.//նըր.
+ gramm: PRON,S,hum
+ gloss: it
+ paradigm: P21
+ trans_en: he, she, it
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նաեւ
+ stem: նաեւ.//նաեվ.//նաև.
+ gramm: CONJ
+ gloss: also
+ paradigm: Empty
+ trans_en: also, either, including
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նդե
+ stem: նդե.//նդէ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նդեղ
+ stem: նդէղ.//նդեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նե
+ stem: նե.//նէ.
+ gramm: PRON,S,hum,sg
+ gloss: she
+ paradigm: Empty
+ trans_en: she
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նենց
+ stem: նենց.//նէնց.
+ gramm: PRON,ADV,oral
+ gloss: so_such
+ paradigm: N12
+ trans_en: so, such
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ներքո
+ stem: ներքո.
+ gramm: CONJ
+ gloss: under
+ paradigm: Empty
+ trans_en: under
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նկատմամբ
+ stem: նկատմամբ.
+ gramm: POST
+ gloss: in.respect.to
+ paradigm: Empty
+ trans_en: with respect (to), in respect (of, to)
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նորա
+ stem: նորա.
+ gramm: PRON,S,hum,sg,gen/dat
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նորան
+ stem: նորան.
+ gramm: PRON,S,hum,sg,def,gen/dat
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նորին
+ stem: նորին.
+ gramm: PRON,S,hum,sg
+ gloss: His.Excellence
+ paradigm: Empty
+ trans_en: His Excellence, His Majesty
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նու
+ stem: նու.
+ gramm: PART,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նույնիսկ
+ stem: նույնիսկ.
+ gramm: PART
+ gloss: even
+ paradigm: Empty
+ trans_en: even
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: նույնքան
+ stem: նույնքան.
+ gramm: PRON,ADV
+ gloss: as.much
+ paradigm: Empty
+ trans_en: as much/many as
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: շնորհավոր
+ stem: շնորհաւոր.//շնորհավոր.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: շնորհիվ
+ stem: շնորհիւ.//շնորհիվ.
+ gramm: PREP/POST
+ gloss: thanks
+ paradigm: Empty
+ trans_en: thanks/owing to, in virtue of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: շտո
+ stem: շտո.
+ gramm: PRON,ADV,intrg,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ոհ
+ stem: ոհ.
+ gramm: INTJ
+ gloss: ah!.oh!
+ paradigm: Empty
+ trans_en: ah! oh!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ողորմի
+ stem: ողորմի.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ողորմիս
+ stem: ողորմիս.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ողջույն
+ stem: ողջույն.
+ gramm: PART
+ gloss: hi
+ paradigm: Empty
+ trans_en: salute, greetings! hail! hi!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ոմն
+ stem: ոմ.
+ gramm: PRON,A,hum,sg
+ gloss: some_certain
+ paradigm: P24
+ trans_en: some, certain
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ոնց
+ stem: ոնց.
+ gramm: PRON,ADV,intrg
+ gloss: how
+ paradigm: Empty
+ trans_en: how
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ոչ
+ stem: ոչ.
+ gramm: PART
+ gloss: no
+ paradigm: Empty
+ trans_en: no
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ոչինչ
+ stem: ոչինչ.|ոչնչ.
+ gramm: PRON,S,negat
+ gloss: nothing
+ paradigm: N14
+ trans_en: nothing, not bad
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ով
+ stem: ով.|ում.
+ gramm: PRON,S,intrg,hum,sg
+ gloss: who
+ paradigm: P22
+ trans_en: who
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ովեւէ
+ stem: ովեվէ.//ովևէ.//ովեւէ.
+ gramm: PRON,A,hum,sg
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ովեւիցե
+ stem: ովեւիցե.//ովեւիցէ.//ովևիցե.//ովեվիցե.
+ gramm: PRON,A,hum,sg
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որ
+ stem: որ.
+ gramm: PRON,A,intrg
+ gloss: which
+ paradigm: P11
+ trans_en: which
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որեւէ
+ stem: որևէ.//որեվէ.//որեւէ.
+ gramm: PRON,A
+ gloss: some
+ paradigm: Empty
+ trans_en: some
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որեւիցե
+ stem: որեւիցէ.//որևիցե.//որեվիցե.//որեւիցե.
+ gramm: PRON,A
+ gloss: some
+ paradigm: Empty
+ trans_en: some
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որովհետեւ
+ stem: որովհետեվ.//որովհետեւ.//որովհետէւ.//որովհետև.
+ gramm: CONJ
+ gloss: since
+ paradigm: Empty
+ trans_en: because, since
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որչափ
+ stem: որչափ.
+ gramm: PRON,ADV,intrg
+ gloss: how.much_how.many
+ paradigm: Empty
+ trans_en: how much, how many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որպես
+ stem: որպէս.//որպես.
+ gramm: PRON,ADV,intrg
+ gloss: as
+ paradigm: Empty
+ trans_en: as, in the capacity of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որպեսզի
+ stem: որպեսզի.
+ gramm: CONJ
+ gloss: in.order.to
+ paradigm: Empty
+ trans_en: in order to
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որպիսի
+ stem: որպիսի.
+ gramm: PRON,A
+ gloss: what
+ paradigm: N12
+ trans_en: what
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որտեղ
+ stem: որտեղ.//որտէղ.
+ gramm: PRON,ADV,intrg
+ gloss: where
+ paradigm: N11
+ trans_en: where
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որտեւ
+ stem: որտեւ.//որտէւ.//որտեվ.//որտև.
+ gramm: CONJ,oral
+ gloss: because
+ paradigm: Empty
+ trans_en: because
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որտև
+ stem: որտև.
+ gramm: CONJ,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: որքան
+ stem: որքան.
+ gramm: PRON,ADV,intrg
+ gloss: how.much
+ paradigm: N12
+ trans_en: how much, how many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ու
+ stem: ու.
+ gramm: CONJ
+ gloss: and
+ paradigm: Empty
+ trans_en: and
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուխ
+ stem: ուխ.
+ gramm: INTJ
+ gloss: tee.hee!
+ paradigm: Empty
+ trans_en: tee-hee!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուխայ
+ stem: ուխայ.
+ gramm: INTJ
+ gloss: hmm.oh!
+ paradigm: Empty
+ trans_en: hmm oh!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուհ
+ stem: ուհ.
+ gramm: INTJ
+ gloss: ouch
+ paradigm: Empty
+ trans_en: damn!, ouch! gosh! gee! gee-whiz!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուստի
+ stem: ուստի.
+ gramm: CONJ
+ gloss: consequently
+ paradigm: Empty
+ trans_en: consequently
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուր
+ stem: ուր.
+ gramm: PRON,ADV,intrg
+ gloss: where
+ paradigm: Empty
+ trans_en: where
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուրեմն
+ stem: ուրէմն.//ուրեմն.
+ gramm: PART
+ gloss: therefore
+ paradigm: Empty
+ trans_en: therefore, accordingly, consequently
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուրիշ
+ stem: ուրիշ.
+ gramm: PRON,A
+ gloss: other
+ paradigm: N12
+ trans_en: other, another, somebody
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուֆ
+ stem: ուֆ.
+ gramm: INTJ
+ gloss: ouch!_oh!_gee!
+ paradigm: Empty
+ trans_en: ouch!, oh!, gee!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ուֆֆ
+ stem: ուֆֆ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ոք
+ stem: ոք.
+ gramm: PRON,S,hum,sg
+ gloss: one
+ paradigm: N11
+ trans_en: one, body
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չափ-չուփ
+ stem: չափ-չուփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չէ
+ stem: չէ.
+ gramm: PART
+ gloss: no
+ paradigm: Empty
+ trans_en: no
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չըփ-չըփ
+ stem: չըփ-չըփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չիցե
+ stem: չիցէ.//չիցե.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չիփ-չափ
+ stem: չիփ-չափ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չիք
+ stem: չիք.
+ gramm: PART
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չլնեմ-չիմանամ
+ stem: չլնեմ-չիմանամ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չլոմփ
+ stem: չլոմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չնայած
+ stem: չնայած.
+ gramm: PREP
+ gloss: in.spite.of
+ paradigm: Empty
+ trans_en: in spite of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չնայելով
+ stem: չնայելով.
+ gramm: CONJ
+ gloss: in.spite.of
+ paradigm: Empty
+ trans_en: in spite of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չպետք
+ stem: չպէտք.//չպետք.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: չրըխկ
+ stem: չրըխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: պա
+ stem: պա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: պահո
+ stem: պահո.
+ gramm: INTJ
+ gloss: well
+ paradigm: Empty
+ trans_en: well
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: պես
+ stem: պես.//պէս.
+ gramm: CONJ
+ gloss: as
+ paradigm: Empty
+ trans_en: as, as soon as
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: պիտի
+ stem: .պիտի.
+ gramm: PART
+ gloss: must
+ paradigm: NEG
+ trans_en: must
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: պիտո
+ stem: պիտո.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: պո-պոպո
+ stem: պո-պոպո.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: պտի
+ stem: .պտի.
+ gramm: PART,oral
+ gloss: must
+ paradigm: NEG
+ trans_en: must
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: սա
+ stem: սա.|սր.//սըր.
+ gramm: PRON,dem
+ gloss: this
+ paradigm: P21
+ trans_en: this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: սակայն
+ stem: սակայն.
+ gramm: CONJ
+ gloss: but
+ paradigm: Empty
+ trans_en: but, though
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: սենց
+ stem: սենց.//սէնց.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: սիթի
+ stem: սիթի.
+ gramm: 
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: սիրուն
+ stem: սիրուն.
+ gramm: POST
+ gloss: for.the.sake.of
+ paradigm: Empty
+ trans_en: for the sake of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: սույն
+ stem: սույն.
+ gramm: PRON,dem
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ստե
+ stem: ստե.//ստէ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ստեղ
+ stem: ստեղ.//ստէղ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վա
+ stem: վա.
+ gramm: INTJ
+ gloss: wow
+ paradigm: Empty
+ trans_en: oh! well! gosh! wow! oh
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վահ
+ stem: վահ.
+ gramm: INTJ
+ gloss: ah
+ paradigm: Empty
+ trans_en: ah! oh! oh, hullo!, tut-tut!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վայ
+ stem: վայ.
+ gramm: INTJ
+ gloss: oh!
+ paradigm: Empty
+ trans_en: oh!, o!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վասն
+ stem: վասն.
+ gramm: PREP
+ gloss: for_about
+ paradigm: Empty
+ trans_en: for, about
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վասնզի
+ stem: վասնզի.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վերա
+ stem: վերա.
+ gramm: POST
+ gloss: on
+ paradigm: Empty
+ trans_en: on
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վերաբերմամբ
+ stem: վերաբերմամբ.
+ gramm: POST
+ gloss: regarding
+ paradigm: Empty
+ trans_en: regarding
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վերաբերյալ
+ stem: վերաբերյալ.
+ gramm: POST
+ gloss: concerning
+ paradigm: Empty
+ trans_en: concerning
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վույ
+ stem: վույ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վուշ
+ stem: վուշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վուշ-վուշ
+ stem: վուշ-վուշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: վրա
+ stem: վրա.|վր.
+ gramm: POST
+ gloss: on
+ paradigm: N26
+ trans_en: on
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: տակ
+ stem: տակ.
+ gramm: POST
+ gloss: under
+ paradigm: N11
+ trans_en: under
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: տե
+ stem: տէ.//տե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: տեղ
+ stem: տէղ.//տեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: տեղակ
+ stem: տեղակ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: տենց
+ stem: տենց.//տէնց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: տո
+ stem: տո.
+ gramm: PART,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ցավոք
+ stem: ցաւոք.//ցավոք.
+ gramm: PART
+ gloss: it's.a.pity
+ paradigm: Empty
+ trans_en: it's a pity
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: ցտեսություն
+ stem: ցտեսություն.//ցտեսութիւն.|ցտեսութեան.//ցտեսության.|ցտեսությամ.//ցտեսութեամ.
+ gramm: PART
+ gloss: good.bye
+ paradigm: N41
+ trans_en: good-bye
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փահ
+ stem: փահ.
+ gramm: INTJ
+ gloss: wow
+ paradigm: Empty
+ trans_en: ah! oh! gosh!, wow!, pshaw!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փիշի-փիշի
+ stem: փիշի-փիշի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փիշտ
+ stem: փիշտ.
+ gramm: INTJ
+ gloss: shoo!
+ paradigm: Empty
+ trans_en: shoo!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փիսի-փիսի
+ stem: փիսի-փիսի.
+ gramm: INTJ
+ gloss: puss
+ paradigm: Empty
+ trans_en: puss
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փիսիփիսի
+ stem: փիսիփիսի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փշի-փշի
+ stem: փշի-փշի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փոխանակ
+ stem: փոխանակ.
+ gramm: POST
+ gloss: instead.of
+ paradigm: Empty
+ trans_en: instead of
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փոխարեն
+ stem: փոխարէն.//փոխարեն.
+ gramm: POST
+ gloss: instead.of
+ paradigm: N12
+ trans_en: instead of, in return for
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փու
+ stem: փու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: փուհ
+ stem: փուհ.
+ gramm: INTJ
+ gloss: damn
+ paradigm: Empty
+ trans_en: damn! hell!, bother! blast!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քան
+ stem: քան.
+ gramm: CONJ
+ gloss: than
+ paradigm: Empty
+ trans_en: than
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քանզի
+ stem: քանզի.
+ gramm: CONJ
+ gloss: for
+ paradigm: Empty
+ trans_en: for
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քանի
+ stem: քանի.
+ gramm: PRON,A,intrg
+ gloss: how.many
+ paradigm: Empty
+ trans_en: how many, while
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քանիս
+ stem: քանիս.
+ gramm: PRON,A,intrg
+ gloss: how.many
+ paradigm: N12
+ trans_en: how many
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քանց
+ stem: քանց.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քավ
+ stem: քաւ.//քավ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քըխ
+ stem: քըխ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քըշ
+ stem: քըշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քըշա
+ stem: քըշա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քըս
+ stem: քըս.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քըս-քըս
+ stem: քըս-քըս.
+ gramm: INTJ
+ gloss: tally.ho!.halloo!
+ paradigm: Empty
+ trans_en: tally-ho! halloo!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քիշ
+ stem: քիշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: քով
+ stem: քով.
+ gramm: POST
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: օհ
+ stem: օհ.
+ gramm: INTJ
+ gloss: oh!
+ paradigm: Empty
+ trans_en: oh!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: օհո
+ stem: օհո.
+ gramm: INTJ
+ gloss: oho!
+ paradigm: Empty
+ trans_en: oho!
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: օյ
+ stem: օյ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: օրոք
+ stem: օրոք.
+ gramm: POST
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
+-lexeme
+ lex: օֆ
+ stem: օֆ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+ trans_ru: 
+ lemma_type: literary
+
