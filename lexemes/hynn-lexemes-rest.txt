@@ -1,6 +1,6 @@
 ﻿-lexeme
  lex: ա
- stem: ա.
+ stem: ա.//ալ.
  gramm: PART
  gloss: STEM
  paradigm: Empty
@@ -1622,7 +1622,7 @@
  lex: կը
  stem: կը.
  gramm: PART
- gloss: STEM
+ gloss: COND
  paradigm: Empty
  trans_en: 
  trans_ru: 
@@ -2436,6 +2436,16 @@
  paradigm: Empty
  trans_en: 
  trans_ru: четвёртый
+ lemma_type: dialectal
+
+-lexeme
+ lex: պիտ
+ stem: .պիտ.
+ gramm: PART
+ gloss: must
+ paradigm: NEG
+ trans_en: must
+ trans_ru: 
  lemma_type: dialectal
 
 -lexeme
