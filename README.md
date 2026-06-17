@@ -5,10 +5,10 @@ Refer to Uniparser repository (https://github.com/timarkh/uniparser-morph) and t
 
 ### Usage
 ```python
+# load the files from this repository
+
 # !pip install uniparser_morph
 from uniparser_morph import Analyzer
-
-# load the files from this repository
 
 a = Analyzer()
 a.lexFile = './lexemes/'
