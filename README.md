@@ -1,7 +1,11 @@
 # uniparser-grammar-nornakhichevan-armenian
-This repository contains the lexemes and paradigms files in the Uniparser format, which are used for parsing the Nor-Nakhichevan Armenian dialect. It also contains wordlists: the results of a test run of the parser on about 22,000 tokens that we found in our corpus (about 100,000 tokens in total).
+This repository contains the "lexemes" and "paradigms" file directories in the Uniparser format, which are used for parsing the Nor-Nakhichevan Armenian dialect. 
 
-To better understand the architecture, refer to Uniparser repository (https://github.com/timarkh/uniparser-morph) and to the Eastern Armenian Uniparser repository (https://github.com/timarkh/uniparser-grammar-eastern-armenian/), both of which are used here.
+The parser in this repository is derivative of the Eastern Armenian Uniparser repository (https://github.com/timarkh/uniparser-grammar-eastern-armenian/).
+
+In the "wordlists" folder there are the results of a test run of the Nor-Nakhichevan parser on about 22,000 tokens that we found in our corpus (about 100,000 tokens in total) and the original Eastern Armenian parser for comparison.
+
+To better understand the architecture, refer to Uniparser repository (https://github.com/timarkh/uniparser-morph).
 
 ### Usage
 ```python
